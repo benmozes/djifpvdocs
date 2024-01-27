@@ -54,7 +54,7 @@ nav:
   - Knowledge Base:
     - 'DJI FPV': index.md
   - Первое поколение:
-    - 'DJI FPV I': first_gen/index.md
+    - 'Первое поколение': first_gen/index.md
     - 'Очки': first_gen/goggles/index.md
 
 language: ru
