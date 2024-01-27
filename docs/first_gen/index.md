@@ -26,5 +26,4 @@ timeline
     section 2022-11
         2ns gen <br> release: O3 Air Unit
         transition gen <br> significant update: Goggles V2 added O3: DJI FPV Remote Controller added O3
-
 ```
