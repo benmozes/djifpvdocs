@@ -49,7 +49,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/telegram
-      link: https://t.me/djifpv
+      link: https://t.me/djifpvru
 nav:
   - Knowledge Base:
     - 'DJI FPV': index.md
