@@ -1,20 +1,14 @@
-# Welcome to MkDocs
+---
+icon: fontawesome/solid/book
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# DJI Digital FPV System
 
-## Commands
+## Добро пожаловать!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+:material-check:Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из [чата в telegram](https://t.me/djifpvru):
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## История DJI в FPV
 
 [timeline(docs/timeline.yml)]
 
