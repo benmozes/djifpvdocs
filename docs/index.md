@@ -10,5 +10,5 @@ icon: fontawesome/solid/book
 
 ## История DJI в FPV
 
-[timeline right headings(docs/timeline.yml)]
+[timeline headings(docs/timeline.yml)]
 
