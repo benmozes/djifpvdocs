@@ -1,0 +1,102 @@
+site_name: DJI FPV Docs
+theme:
+  name: material
+  favicon: images/favicon.ico
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    logo: simple/dji
+    annotation: material/lightbulb-alert-outline
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - announce.dismiss
+    # - navigation.footer
+    - navigation.indexes
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    # - toc.integrate
+  hide:
+    # - toc
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to system preference
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/djifpvru
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/neoteroi-mkdocs.css
+nav:
+  - База знаний:
+    - 'DJI FPV': index.md
+  - Очки:
+    - goggles/index.md
+    - 'FPV Goggles': goggles/v1.md
+    - 'FPV Goggles v2': goggles/v2.md
+    - 'Goggles 2': goggles/g2.md
+    - 'Integra': goggles/integra.md
+    - 'Goggles 3': goggles/g3.md
+    - 'Goggles N3': goggles/n3.md
+  - Видеопередатчики:
+    - vtx/index.md
+    - 'Air unit': vtx/air_unit.md
+    - 'Air unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
+    - 'o3 air unit': vtx/o3.md
+    - 'o4 air unit': vtx/o4.md
+    - 'o4 pro air unit': vtx/o4pro.md
+
+language: ru
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+  - abbr
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - tables
+  - neoteroi.timeline
+
+plugins:
+  - tags:
+      tags_file: tags.md
