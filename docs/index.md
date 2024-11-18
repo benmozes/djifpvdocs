@@ -8,7 +8,7 @@ icon: fontawesome/solid/book
 
 :material-check:Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из [чата в telegram](https://t.me/djifpvru):
 
-## История DJI в FPV
+## Краткая история DJI в FPV
 
 [timeline headings(docs/timeline.yml)]
 

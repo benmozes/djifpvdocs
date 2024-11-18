@@ -10,3 +10,23 @@
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2019-07
   title: DJI Digital FPV System 
+- content: в миру известная как Caddx Vista/Runkam link. Всеми любимый передатчик, легкий, прочный как танк. По сравнению с полноценным Air Unit лишился только записи на себя и второй антенны.
+  icon: ':fontawesome-solid-fire:'
+  sub_title: 2020-01
+  title: DJI Air unit (lite)
+- content: когда цифра от DJI из "дорого и так себе" стала "вот щас торт"
+  icon: ':fontawesome-solid-fire:'
+  sub_title: 2020-07
+  title: DJI Digital FPV System 50Mbps
+- content: релиз нового поколения очков, вместе с DJI Avata (пока еще без отдельных передатчиков для DIY)
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2022-08
+  title: DJI Goggles 2 
+- content: первый юнит DJI с отдельным медиачипом и камерой из DJI Action 2, который сильно улучшил качество картинки и пробиваемость сигнала, освободив p1 чип от медиакодирования 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2022-11
+  title: o3 Air Unit 
+- content: новые очки из того же поколения, что и Goggles 2, в угоду FCC DJI окончательно отняли возможность менять антенны и добавили в очки GPS для US Remote ID, а так же встроенную (условно, но все же) в очки батарею, для сокращения затрат на логистику
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2023-03
+  title: DJI Goggles Integra
