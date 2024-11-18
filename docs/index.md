@@ -6,7 +6,7 @@ icon: fontawesome/solid/book
 
 ## Добро пожаловать!
 
-:material-check:Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из [чата в telegram](https://t.me/djifpvru):
+:material-heart-plus: Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из [чата в telegram](https://t.me/djifpvru):
 
 ## Краткая история DJI в FPV
 
