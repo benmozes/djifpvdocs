@@ -32,7 +32,7 @@ icon: fontawesome/solid/vr-cardboard
       ![Image title](./images/goggles2_dark.webp#only-dark){ width="600" }
     </figure>](g2.md)
 
--   :material-marker-check:{ .lg .middle } __Integra__
+-   :material-marker-check:{ .lg .middle } __Goggles Integra__
 
     ---
      [<figure markdown="span">

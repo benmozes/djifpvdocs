@@ -96,7 +96,8 @@ markdown_extensions:
         - includes/abbreviations.md
   - tables
   - neoteroi.timeline
-
+watch:
+  - includes
 plugins:
   - tags:
       tags_file: tags.md
