@@ -20,8 +20,8 @@ icon: fontawesome/solid/vr-cardboard
     ---
 
     [<figure markdown="span">
-      ![Image title](./images/fpv_goggles_light.webp#only-light){ width="327" }
-      ![Image title](./images/fpv_goggles_dark.webp#only-dark){ width="327" }
+      ![Image title](./images/fpv_goggles_v2_light.webp#only-light){ width="327" }
+      ![Image title](./images/fpv_goggles_v2_dark.webp#only-dark){ width="327" }
     </figure>](v2.md)
 
 -   :material-marker-check:{ .lg .middle } __Goggles 2__
