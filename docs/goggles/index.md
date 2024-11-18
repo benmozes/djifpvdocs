@@ -23,21 +23,23 @@ icon: fontawesome/solid/vr-cardboard
 
 <div class="grid cards" markdown>
 
--   :material-marker-check:{ .lg .middle } __FPV Goggles__
+-   :material-marker-check:{ .lg .middle } __DJI FPV Goggles__
 
     ---
 
-    Lorem ipsum dolor sit amet
+    [<figure markdown="span">
+      ![Image title](./images/fpv_goggles_light.webp#only-light){ width="327" }
+      ![Image title](./images/fpv_goggles_dark.webp#only-dark){ width="327" }
+    </figure>](v1.md)
 
-    [:octicons-arrow-right-24: подробнее](v1.md)
-
--   :material-marker-check:{ .lg .middle } __FPV Goggles v2__
+-   :material-marker-check:{ .lg .middle } __DJI FPV Goggles v2__
 
     ---
 
-    consectetur adipiscing elit
-
-    [:octicons-arrow-right-24: подробнее](v2.md)
+    [<figure markdown="span">
+      ![Image title](./images/fpv_goggles_light.webp#only-light){ width="327" }
+      ![Image title](./images/fpv_goggles_dark.webp#only-dark){ width="327" }
+    </figure>](v2.md)
 
 -   :material-marker-check:{ .lg .middle } __Goggles 2__
 
