@@ -12,17 +12,24 @@ tags:
 </figure>
 
 ### дата релиза
-- 1900-01-01
+- 2023-03-28
 
-### последняя актуальная прошивка
-- xx.yy.zzzz.ii
+### актуальная прошивка
+- v01.05.0000
+- рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
 
 ### совместимость
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- [ ] Vestibulum convallis sit amet nisi a tincidunt
-    * [x] In hac habitasse platea dictumst
-    * [x] In scelerisque nibh non dolor mollis congue sed et metus
-    * [ ] Praesent sed risus massa
-- [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+* юниты:
+    * :octicons-check-circle-24:{ .green_check } air unit
+    * :octicons-check-circle-24:{ .green_check } air unit (lite) aka Caddx Vista/Runcam Link
+    * :octicons-check-circle-24:{ .green_check } o3 air unit
+    * :octicons-check-circle-24:{ .green_check } o4 air unit
+    * :octicons-check-circle-24:{ .green_check } o4 air unit pro
+* апппаратура управления:
+    * :octicons-x-circle-24:{ .red_cross } FPV Remote controller 
+    * :octicons-check-circle-24:{ .green_check } FPV Remote controller 2
+    * :octicons-x-circle-24:{ .red_cross } FPV Remote controller 3
+* модификация прошивки
+    * :octicons-x-circle-24:{ .red_cross } WTFOS
 
 ### параметры
