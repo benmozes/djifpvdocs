@@ -59,19 +59,19 @@ nav:
     - 'DJI FPV': index.md
   - Очки:
     - goggles/index.md
-    - 'FPV Goggles': goggles/v1.md
-    - 'FPV Goggles v2': goggles/v2.md
-    - 'Goggles 2': goggles/g2.md
-    - 'Integra': goggles/integra.md
-    - 'Goggles 3': goggles/g3.md
-    - 'Goggles N3': goggles/n3.md
+    - 'DJI FPV Goggles': goggles/v1.md
+    - 'DJI FPV Goggles V2': goggles/v2.md
+    - 'DJI Goggles 2': goggles/g2.md
+    - 'DJI Goggles Integra': goggles/integra.md
+    - 'DJI Goggles 3': goggles/g3.md
+    - 'DJI Goggles N3': goggles/n3.md
   - Видеопередатчики:
     - vtx/index.md
-    - 'Air unit': vtx/air_unit.md
-    - 'Air unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
-    - 'o3 air unit': vtx/o3.md
-    - 'o4 air unit': vtx/o4.md
-    - 'o4 pro air unit': vtx/o4pro.md
+    - 'DJI Air unit': vtx/air_unit.md
+    - 'DJI Air unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
+    - 'DJI o3 air unit': vtx/o3.md
+    - 'DJI o4 air unit': vtx/o4.md
+    - 'DJI o4 pro air unit': vtx/o4pro.md
 
 language: ru
 markdown_extensions:

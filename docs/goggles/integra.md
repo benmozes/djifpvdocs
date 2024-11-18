@@ -5,6 +5,12 @@ tags:
   - second_gen
 ---
 
+<figure markdown="span">
+  ![Image title](./images/goggles_integra_light.webp#only-light){ width="600" }
+  ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="600" }
+  <figcaption>DJI Goggles Integra</figcaption>
+</figure>
+
 ### дата релиза
 - 1900-01-01
 
