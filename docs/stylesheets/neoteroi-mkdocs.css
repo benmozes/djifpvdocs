@@ -2,6 +2,7 @@
  *  All CSS for the neoteroi-mkdocs extensions.
  *
  *  https://github.com/Neoteroi/mkdocs-plugins
+ 91a5ec
 **/
 :root {
     --nt-color-0: #78B3CE;
@@ -14,7 +15,7 @@
     --nt-color-7: #82ABE6;
     --nt-color-8: #86A9E9;
     --nt-color-9: #8BA7EB;
-    --nt-color-10: #91A5EC;
+    --nt-color-10: #91a5ec;
     --nt-color-11: #97A2ED;
     --nt-color-12: #9E9FEE;
     --nt-color-13: #A59DEE;
@@ -54,8 +55,8 @@
     --nt-color-47: #82ABE6;
     --nt-color-48: #86A9E9;
     --nt-color-49: #8BA7EB;
-    --nt-color-50: #91A5EC;
-    --nt-color-51: #97A2ED;
+    --nt-color-50: #000000;
+    --nt-color-51: #edeffc;
     --nt-color-52: #9E9FEE;
     --nt-color-53: #A59DEE;
     --nt-color-54: #AD9AED;
@@ -94,7 +95,7 @@
     --nt-color-87: #82ABE6;
     --nt-color-88: #86A9E9;
     --nt-color-89: #8BA7EB;
-    --nt-color-90: #91A5EC;
+    --nt-color-90: #91a5ec;
     --nt-color-91: #97A2ED;
     --nt-color-92: #9E9FEE;
     --nt-color-93: #A59DEE;
@@ -134,7 +135,7 @@
     --nt-color-127: #82ABE6;
     --nt-color-128: #86A9E9;
     --nt-color-129: #8BA7EB;
-    --nt-color-130: #91A5EC;
+    --nt-color-130: #91a5ec;
     --nt-color-131: #97A2ED;
     --nt-color-132: #9E9FEE;
     --nt-color-133: #A59DEE;
