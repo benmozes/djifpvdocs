@@ -67,11 +67,11 @@ nav:
     - 'DJI Goggles N3': goggles/n3.md
   - Видеопередатчики:
     - vtx/index.md
-    - 'DJI Air unit': vtx/air_unit.md
-    - 'DJI Air unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
-    - 'DJI o3 air unit': vtx/o3.md
-    - 'DJI o4 air unit': vtx/o4.md
-    - 'DJI o4 pro air unit': vtx/o4pro.md
+    - 'DJI Air Unit': vtx/air_unit.md
+    - 'DJI Air Unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
+    - 'DJI o3 Air Unit': vtx/o3.md
+    - 'DJI o4 Air Unit': vtx/o4.md
+    - 'DJI o4 Air Unit Pro': vtx/o4pro.md
 
 language: ru
 markdown_extensions:

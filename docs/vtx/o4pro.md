@@ -21,9 +21,9 @@ tags:
     * :octicons-check-circle-24:{ .green_check } DJI Goggles 3
     * :octicons-check-circle-24:{ .green_check } DJI Goggles N3
 * апппаратура управления:
-    * :octicons-x-circle-24:{ .red_cross } FPV Remote controller 
-    * :octicons-check-circle-24:{ .green_check } FPV Remote controller 2[^2]
-    * :octicons-check-circle-24:{ .green_check } FPV Remote controller 3[^3]
+    * :octicons-x-circle-24:{ .red_cross } FPV Remote Controller 
+    * :octicons-check-circle-24:{ .green_check } FPV Remote Controller 2[^2]
+    * :octicons-check-circle-24:{ .green_check } FPV Remote Controller 3[^3]
 * модификация прошивки
     * :octicons-x-circle-24:{ .red_cross } WTFOS
 

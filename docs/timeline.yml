@@ -25,8 +25,16 @@
 - content: первый юнит DJI с отдельным медиачипом и камерой из DJI Action 2, который сильно улучшил качество картинки и пробиваемость сигнала, освободив p1 чип от медиакодирования 
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2022-11
-  title: o3 Air Unit 
-- content: новые очки из того же поколения, что и Goggles 2, в угоду FCC DJI окончательно отняли возможность менять антенны и добавили в очки GPS для US Remote ID, а так же встроенную (условно, но все же) в очки батарею, для сокращения затрат на логистику
+  title: DJI o3 Air Unit 
+- content: новые очки на полноценном протоколе o4 - больше антенн, лучше связь, AR камеры, новый (на самом деле старый, как было в первых очках) способ фиксации на голове
   icon: ':fontawesome-solid-angles-down:'
-  sub_title: 2023-03
-  title: DJI Goggles Integra
+  sub_title: 2024-04
+  title: DJI Goggles 3
+- content: первая попытка DJI выдать миру бюджетный FPV шлем - один дисплей, лимит частоты дисплея 60Hz 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2024-11
+  title: DJI Goggles N3
+- content: долгожданное обновление линейки FPV юнитов 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2025-01
+  title: DJI o4 Air Unit
