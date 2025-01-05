@@ -3,6 +3,7 @@ tags:
   - s2
   - e3t
   - third_gen
+  - vtx
 ---
 # DJI o4 Pro Air Unit
 

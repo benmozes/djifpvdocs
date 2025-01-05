@@ -1,7 +1,7 @@
 ---
 icon: fontawesome/solid/microchip
 ---
-# VTX
+# Список передатчиков DJI FPV System
 
 <div class="grid cards" markdown>
 
