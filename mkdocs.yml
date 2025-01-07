@@ -79,6 +79,8 @@ markdown_extensions:
   - md_in_html
   - footnotes
   - abbr
+  - pymdownx.critic
+  - admonition
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
