@@ -16,11 +16,11 @@ tags:
 - 2019-07-31
 
 ### актуальная прошивка
-##### для работы с очками FPV Goggles V1 и V2
-* v01.00.06.08
-##### для работы с очками Goggles 2 и Integra
-* v01.01.00.00
-* рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-dji-fpv-series" target="_blank">DJI Assistant 2 (DJI FPV Series):octicons-link-external-16:</a>
+* _для работы с очками FPV Goggles V1 и V2_
+    * v01.00.06.08
+* _для работы с очками Goggles 2 и Integra_
+    * v01.01.00.00
+    * рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-dji-fpv-series" target="_blank">DJI Assistant 2 (DJI FPV Series):octicons-link-external-16:</a>
 
 ### совместимость
 * Очки:

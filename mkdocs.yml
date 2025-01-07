@@ -74,6 +74,7 @@ nav:
     - 'DJI o4 Air Unit Pro': vtx/o4pro.md
 
 language: ru
+
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -81,6 +82,8 @@ markdown_extensions:
   - abbr
   - pymdownx.critic
   - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -98,8 +101,18 @@ markdown_extensions:
         - includes/abbreviations.md
   - tables
   - neoteroi.timeline
+  - toc:
+      permalink: ⚓︎
+      title: On this page
+      permalink_title: Anchor link to this section for reference
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 watch:
   - includes
 plugins:
   - tags:
       tags_file: tags.md
+  - git-revision-date-localized:
+      enable_creation_date: true
+
