@@ -50,9 +50,13 @@ icon: fontawesome/solid/book
             * [ ] o4 Air Unit Pro камера
     - [ ] камеры:
         * [ ] камеры для первого поколения передатчиков
+    - [ ] контроллеры:
+        * [ ] DJI FPV Remote Controller
+        * [ ] DJI FPV Remote Controller 2
+        * [ ] DJI FPV Remote Controller 3
     - [ ] WTFOS
     - [ ] FAQ:
-        * [ ] FCC hack
+        * [x] FCC hack
     - [ ] глоссарий
 
 ### краткая история DJI в FPV
