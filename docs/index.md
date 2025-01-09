@@ -9,7 +9,7 @@ icon: fontawesome/solid/book
 :material-heart-plus: Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из <a href="https://t.me/djifpvru" target="_blank">чата в telegram :simple-telegram:</a>
 
 ### планы:
-??? abstract "to do:"
+???+ abstract "to do:"
     - [ ] очки:
         * [ ] DJI FPV Goggles
             * [x] совместимость
