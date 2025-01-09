@@ -70,6 +70,15 @@ tags:
         - нет[^5]
     16. **GPS**
         - да[^6]
+
+### audeince mode (трансляция)
+* :material-link-off:{ .red_cross }  DJI Goggles
+* :material-link:  DJI Goggles V2
+    * :material-link-off:{ .red_cross } первое поколение юнитов
+    * :material-link:{ .green_check } o3 Air Unit
+* :material-link:{ .green_check }  DJI Goggles 2
+* :material-link-off:{ .red_cross }  DJI Goggles 3
+* :material-link-off:{ .red_cross }  DJI Goggles N3
     
 
 [^1]: видеопередатчик должен быть на прошивке v01.01.00.00
