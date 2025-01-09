@@ -14,19 +14,12 @@ theme:
     - content.tooltips
     - header.autohide
     - announce.dismiss
-    # - navigation.footer
     - navigation.indexes
-    # - navigation.sections
-    # - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.expand
     - navigation.top
     - navigation.tracking
     - navigation.instant
     - navigation.instant.progress
-    # - toc.integrate
-  hide:
-    # - toc
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -75,7 +68,6 @@ nav:
   - FCC hack:
     - fcc/index.md
 
-language: ru
 
 markdown_extensions:
   - attr_list
@@ -122,4 +114,3 @@ plugins:
       tags_file: tags.md
   - git-revision-date-localized:
       enable_creation_date: true
-
