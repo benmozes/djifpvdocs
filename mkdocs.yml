@@ -112,5 +112,5 @@ watch:
 plugins:
   - tags:
       tags_file: tags.md
-  # - git-revision-date-localized:
-      # enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
