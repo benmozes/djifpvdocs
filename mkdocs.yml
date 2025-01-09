@@ -114,3 +114,4 @@ plugins:
       tags_file: tags.md
   - git-revision-date-localized:
       enable_creation_date: true
+      fallback_to_build_date: true
