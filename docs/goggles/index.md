@@ -28,31 +28,31 @@ icon: fontawesome/solid/vr-cardboard
 
     ---
     [<figure markdown="span">
-      ![Image title](./images/goggles2_light.webp#only-light){ width="600" }
-      ![Image title](./images/goggles2_dark.webp#only-dark){ width="600" }
+      ![Image title](./images/goggles2_light.webp#only-light){ width="327" }
+      ![Image title](./images/goggles2_dark.webp#only-dark){ width="327" }
     </figure>](g2.md)
 
 -   :material-marker-check:{ .lg .middle } __Goggles Integra__
 
     ---
      [<figure markdown="span">
-      ![Image title](./images/goggles_integra_light.webp#only-light){ width="600" }
-      ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="600" }
+      ![Image title](./images/goggles_integra_light.webp#only-light){ width="327" }
+      ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="327" }
     </figure>](integra.md)
 
 -   :material-marker-check:{ .lg .middle } __Goggles 3__
 
     ---
     [<figure markdown="span">
-      ![Image title](./images/goggles3_light.webp#only-light){ width="600" }
-      ![Image title](./images/goggles3_dark.webp#only-dark){ width="600" }
+      ![Image title](./images/goggles3_light.webp#only-light){ width="327" }
+      ![Image title](./images/goggles3_dark.webp#only-dark){ width="327" }
     </figure>](g3.md)
 
 -   :material-marker-check:{ .lg .middle } __Goggles N3__
 
     ---
    [<figure markdown="span">
-      ![Image title](./images/goggles_n3_light.webp#only-light){ width="600" }
-      ![Image title](./images/goggles_n3_dark.webp#only-dark){ width="600" }
+      ![Image title](./images/goggles_n3_light.webp#only-light){ width="327" }
+      ![Image title](./images/goggles_n3_dark.webp#only-dark){ width="327" }
     </figure>](n3.md)
 </div>
