@@ -49,7 +49,7 @@ extra_css:
   - stylesheets/neoteroi-mkdocs.css
 nav:
   - База знаний:
-    - 'DJI FPV': index.md
+    - index.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
