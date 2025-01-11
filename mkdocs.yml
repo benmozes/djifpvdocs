@@ -9,13 +9,15 @@ theme:
     annotation: material/lightbulb-alert-outline
   features:
     - content.code.annotate
+    - navigation.tabs
+    # - navigation.sections
     - content.code.copy
     - content.tabs.link
     - content.tooltips
     - header.autohide
     - announce.dismiss
     - navigation.indexes
-    - navigation.expand
+    # - navigation.expand
     - navigation.top
     - navigation.tracking
     - navigation.instant
@@ -114,7 +116,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - git-revision-date-localized:
-      enable_creation_date: true
-      fallback_to_build_date: true
-      locale: ru 
+      enable_creation_date: false
+      fallback_to_build_date: false
+      locale: en 
       

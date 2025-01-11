@@ -24,18 +24,18 @@ tags:
 
 ### совместимость
 * Очки:
-    * :octicons-check-circle-24:{ .green_check } DJI FPV Goggles[^1]
-    * :octicons-check-circle-24:{ .green_check } DJI FPV Goggles V2[^2]
-    * :octicons-check-circle-24:{ .green_check } DJI Goggles 2[^3]
-    * :octicons-check-circle-24:{ .green_check } DJI Goggles Integra[^4]
-    * :octicons-x-circle-24:{ .red_cross } DJI Goggles 3
-    * :octicons-x-circle-24:{ .red_cross } DJI Goggles N3
+    * :material-link:{ .green_check } DJI FPV Goggles[^1]
+    * :material-link:{ .green_check } DJI FPV Goggles V2[^2]
+    * :material-link:{ .green_check } DJI Goggles 2[^3]
+    * :material-link:{ .green_check } DJI Goggles Integra[^4]
+    * :material-link-off:{ .red_cross } DJI Goggles 3
+    * :material-link-off:{ .red_cross } DJI Goggles N3
 * апппаратура управления:
-    * :octicons-check-circle-24:{ .green_check } FPV Remote Controller[^5] 
-    * :octicons-check-circle-24:{ .green_check } FPV Remote Controller 2[^6]
-    * :octicons-x-circle-24:{ .red_cross } FPV Remote Controller 3
+    * :material-link:{ .green_check } FPV Remote Controller[^5] 
+    * :material-link:{ .green_check } FPV Remote Controller 2[^6]
+    * :material-link-off:{ .red_cross } FPV Remote Controller 3
 * модификация прошивки
-    * :octicons-check-circle-24:{ .green_check } WTFOS
+    * :material-link:{ .green_check } WTFOS
 
 [^1]: на прошивке v01.00.06.08
 [^2]: на прошивке v01.00.06.08

@@ -20,17 +20,17 @@ tags:
 
 ### совместимость
 * юниты:
-    * :octicons-check-circle-24:{ .green_check } Air Unit[^1]
-    * :octicons-check-circle-24:{ .green_check } Air Unit (lite) aka Caddx Vista/Runcam Link[^2]
-    * :octicons-check-circle-24:{ .green_check } o3 Air Unit
-    * :octicons-check-circle-24:{ .green_check } o4 Air Unit
-    * :octicons-check-circle-24:{ .green_check } o4 Air Unit pro
+    * :material-link:{ .green_check } Air Unit[^1]
+    * :material-link:{ .green_check } Air Unit (lite) aka Caddx Vista/Runcam Link[^2]
+    * :material-link:{ .green_check } o3 Air Unit
+    * :material-link:{ .green_check } o4 Air Unit
+    * :material-link:{ .green_check } o4 Air Unit pro
 * апппаратура управления:
-    * :octicons-x-circle-24:{ .red_cross } FPV Remote Controller 
-    * :octicons-check-circle-24:{ .green_check } FPV Remote Controller 2
-    * :octicons-x-circle-24:{ .red_cross } FPV Remote Controller 3
+    * :material-link-off:{ .red_cross } FPV Remote Controller 
+    * :material-link:{ .green_check } FPV Remote Controller 2
+    * :material-link-off:{ .red_cross } FPV Remote Controller 3
 * модификация прошивки
-    * :octicons-x-circle-24:{ .red_cross } WTFOS
+    * :material-link-off:{ .red_cross } WTFOS
 
 ### ключевые параметры
 ??? abstract "список параметров"
