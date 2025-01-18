@@ -10,7 +10,7 @@ tags:
 <figure markdown="span">
   ![Image title](./images/light_o4_pro.webp#only-light){ width="600" }
   ![Image title](./images/dark_o4_pro.webp#only-dark){ width="600" }
-  <figcaption>DJI o3 Air Unit</figcaption>
+  <figcaption>DJI o4 Pro Air Unit</figcaption>
 </figure>
 
 ### дата релиза
