@@ -69,6 +69,9 @@ nav:
     - 'DJI o4 Air Unit Pro': vtx/o4pro.md
   - FCC hack:
     - fcc/index.md
+  - WTFOS:
+    - wtfos/index.md
+    - 'Совместимость': wtfos/compatibility.md
 
 
 markdown_extensions:
