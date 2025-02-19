@@ -1,0 +1,83 @@
+{#-
+This file was automatically generated - do not edit
+-#}
+{% block extrahead %}
+  <style>
+    .md-sidebar {
+      display: none !important;
+    }
+    .md-content {
+      margin-left: 0 !important;
+    }
+    .md-footer {
+      display: none !important;
+    }
+  </style>
+{% endblock %}
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>
+    .md-header {
+        background: transparent !important;
+        box-shadow: none !important;
+    }
+    .md-footer {
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+    .md-tabs {
+        background: transparent !important;
+        box-shadow: none !important;
+    }
+    body {
+        background: url('./assets/images/background.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    .mdx-hero {
+        bottom: 3.2rem;
+        display: block;
+        position: absolute;
+        transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
+        width: 100%;
+    }
+
+    .mdx-hero__content {
+        width: 25%;
+    }
+
+    .md-typeset h1 {
+      color: #333333 !important;
+    }
+
+    .md-typeset p {
+      color: #333333 !important;
+    }
+    </style>
+{% endblock %}
+{% block content %}
+<main class="md-main">
+    <div class="md-content">
+      <article class="md-typeset">
+        <section class="mdx-container">
+            <div class="md-grid md-typeset">
+              <div class="mdx-hero">
+                <div class="mdx-hero__content">
+                  <h1>DJI digital FPV System</h1>
+                  <p>{{ config.site_description }}</p>
+                  <p>Информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых решения от DJI нет и не будет.</p>
+                  <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
+                    База знаний
+                  </a>
+                  <a href="{{ 'https://t.me/djifpvru' | url }}" title="DJI FPV в Telegram" class="md-button">
+                    Чат в telegram
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+      </article>
+    </div>
+  </main>
+{% endblock %}

@@ -1,4 +1,11 @@
 site_name: DJI FPV Docs
+site_description: >-
+  Здесь хранится базовая информация и накопленный опыт сообщества о цифровой FPV системе от DJI для DIY носителей.
+
+# Repository
+repo_name: benmozes/djifpvdocs
+repo_url: https://github.com/benmozes/djifpvdocs
+
 theme:
   name: material
   custom_dir: overrides
@@ -51,8 +58,9 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
 nav:
-  - База знаний:
-    - index.md
+  - Home: index.md
+  - База знаний: 
+    - knowledge_base/index.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
