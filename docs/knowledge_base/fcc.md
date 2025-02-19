@@ -1,14 +1,23 @@
 ---
-icon: simple/fcc
+icon: material/powershell
 tags:
     - first_gen
     - second_gen
+    - third_gen
 ---
-
 # FCC hack
 
-=== "Первое поколение"
+* :octicons-info-24: первое поколение &mdash; актуально для первого поколения юнитов в связке с DJI FPV Goggles или DJI FPV Goggles V2
+* :octicons-info-24: второе и третье поколение — актуально для следующих связок:
+    - Air Unit + Goggles 2/Integra
+    - Air Unit (lite) + Goggles 2/Integra
+    - o3 Air Unit + любые очки
+    - o4 Air Unit + любые очки
+    - o4 Air Unit Pro + любые очки
 
+=== "Первое поколение"
+    
+    
     ???+ info
         * во время хака очков, должен быть выключен юнит
         * во время хака передатчика, должны быть выключены очки
@@ -47,7 +56,8 @@ tags:
         * 7 – BR Brazil 4 Channels
         * 8 – FR CCA 4 Channels
 
-=== "Второе поколение"
+=== "Второе и третье поколение"
+    
     ???+ info
         * DJI сильно упростили FCC hack во втором и следующем поколениях, теперь достаточно добавления одного файла в очки
         * в архиве пустой файл, без расширения, с нулевым весом - это нормально

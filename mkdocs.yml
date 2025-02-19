@@ -61,6 +61,8 @@ nav:
   - Home: index.md
   - База знаний: 
     - knowledge_base/index.md
+    - 'FCC hack': knowledge_base/fcc.md
+    - 'Таймлайн': knowledge_base/timeline.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
@@ -76,8 +78,6 @@ nav:
     - 'DJI o3 Air Unit': vtx/o3.md
     - 'DJI o4 Air Unit': vtx/o4.md
     - 'DJI o4 Air Unit Pro': vtx/o4pro.md
-  - FCC hack:
-    - fcc/index.md
   - WTFOS:
     - wtfos/index.md
     - 'Совместимость': wtfos/compatibility.md

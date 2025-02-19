@@ -2,11 +2,11 @@
   icon: ':material-rocket-launch-outline:'
   sub_title: 2017-04
   title: DJI Goggles
-- content: такие же очки как DJI Goggles, только теперь появился еще и отдельный юнит
+- content: такие же очки как DJI Goggles, только теперь научились принимать аналоговый сигнал и появился еще и отдельный юнит
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2017-11
   title: DJI Goggles RE + OcuSync Air System
-- content: именно тот релиз, в котором основная масса воинов карбона и пальника стала знакомиться с цифрой
+- content: именно тот релиз, в котором основная масса воинов карбона и паяльника стала знакомиться с цифрой
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2019-07
   title: DJI Digital FPV System 
@@ -14,7 +14,7 @@
   icon: ':fontawesome-solid-fire:'
   sub_title: 2020-01
   title: DJI Air unit (lite)
-- content: когда цифра от DJI из "дорого и так себе" стала "вот щас торт"
+- content: когда цифра от DJI из «дорого и так себе» стала «вот щас торт»
   icon: ':fontawesome-solid-fire:'
   sub_title: 2020-07
   title: DJI Digital FPV System 50Mbps
@@ -38,7 +38,7 @@
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2024-11
   title: DJI Goggles N3
-- content: долгожданное обновление линейки FPV юнитов 
+- content: долгожданное обновление линейки FPV юнитов в котором мы получили o4 pro c камерой из DJI Action 4/Avata 2 и первое подобие lite юнита (который так и не показал адекватной работы от 1s) 
   icon: ':fontawesome-solid-angles-down:'
   sub_title: 2025-01
   title: DJI o4 Air Unit

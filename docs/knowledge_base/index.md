@@ -1,12 +1,10 @@
 ---
-icon: fontawesome/solid/book
+icon: material/book-outline
 ---
 
-# База знаний
+# Добро пожаловать
 
-## Добро пожаловать!
-
-:material-heart-plus: Здесь хранятся накопленные знания и пользовательский опыт использования DJI FPV System из <a href="https://t.me/djifpvru" target="_blank">чата в telegram :simple-telegram:</a>
+Со временем данная страница будет базовой точкой входа со всеми необходимыми ссылками на настройки/спеки/faq, но пока только базовый todo лист по ближайшим задачам в планах.
 
 ### планы:
 ???+ abstract "to do:"
@@ -64,8 +62,3 @@ icon: fontawesome/solid/book
     - [ ] FAQ:
         * [x] FCC hack
     - [ ] глоссарий
-
-### краткая история DJI в FPV
-
-[timeline center alternate headings(docs/timeline.yml)]
-
