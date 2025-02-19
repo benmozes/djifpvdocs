@@ -54,6 +54,13 @@ This file was automatically generated - do not edit
     .md-typeset p {
       color: #333333 !important;
     }
+
+    .md-button {
+        min-width: 212px !important; /* Минимальная ширина */
+        max-width: 212px !important; /* Ограничение по ширине */
+        display: inline-block;
+        text-align: center;
+    }
     </style>
 {% endblock %}
 {% block content %}
@@ -66,7 +73,7 @@ This file was automatically generated - do not edit
                 <div class="mdx-hero__content">
                   <h1>DJI digital FPV System</h1>
                   <p>{{ config.site_description }}</p>
-                  <p>Информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых решения от DJI нет и не будет.</p>
+                  <p style="opacity: 80%;">Информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых решениях от DJI нет и не будет.</p>
                   <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
                     База знаний
                   </a>
