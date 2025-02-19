@@ -1,0 +1,44 @@
+- content: здоровые белые очки размером с VR шлем, именно из-за них Goggles 2 называются так, а не иначе
+  icon: ':material-rocket-launch-outline:'
+  sub_title: 2017-04
+  title: DJI Goggles
+- content: такие же очки как DJI Goggles, только теперь научились принимать аналоговый сигнал и появился еще и отдельный юнит
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2017-11
+  title: DJI Goggles RE + OcuSync Air System
+- content: именно тот релиз, в котором основная масса воинов карбона и паяльника стала знакомиться с цифрой
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2019-07
+  title: DJI Digital FPV System 
+- content: в миру известная как Caddx Vista/Runcam link </br></br> всеми любимый передатчик, легкий, прочный как танк; по сравнению с полноценным Air Unit лишился только записи на себя и второй антенны.
+  icon: ':fontawesome-solid-fire:'
+  sub_title: 2020-01
+  title: DJI Air unit (lite)
+- content: когда цифра от DJI из «дорого и так себе» стала «вот щас торт»
+  icon: ':fontawesome-solid-fire:'
+  sub_title: 2020-07
+  title: DJI Digital FPV System 50Mbps
+- content: релиз нового поколения очков, вместе с DJI Avata (пока еще без отдельных передатчиков для DIY)
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2022-08
+  title: DJI Goggles 2 
+- content: первый юнит DJI с отдельным медиачипом и камерой из DJI Action 2, который сильно улучшил качество картинки и пробиваемость сигнала, освободив p1 чип от медиакодирования 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2022-11
+  title: DJI o3 Air Unit 
+- content: чуть более дешевая версия DJI Goggles 2 - несъемные антенны, отсутствие регулировки диоптрий, GPS в угоду Remote ID
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2023-03
+  title: DJI Goggles Integra
+- content: новые очки на полноценном протоколе o4 - больше антенн, лучше связь, AR камеры, новый (на самом деле старый, как было в первых очках) способ фиксации на голове
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2024-04
+  title: DJI Goggles 3
+- content: первая попытка DJI выдать миру бюджетный FPV шлем - один дисплей, лимит частоты дисплея 60Hz 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2024-11
+  title: DJI Goggles N3
+- content: долгожданное обновление линейки FPV юнитов в котором мы получили o4 pro c камерой из DJI Action 4/Avata 2 и первое подобие lite юнита (который так и не показал адекватной работы от 1s) 
+  icon: ':fontawesome-solid-angles-down:'
+  sub_title: 2025-01
+  title: DJI o4 Air Unit
