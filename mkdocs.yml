@@ -56,6 +56,18 @@ extra:
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/djifpvru
+  analytics:
+      provider: google
+      property: G-G82LVRX450
+  consent:
+    title: согласие на обработку cookies
+    description: >- 
+      www.djifpv.ru обрабатывает файлы cookie.
+      Они помогают нам делать этот сайт удобнее для пользователей. 
+      Продолжая работу с сайтом www.djifpv.ru, вы соглашаетесь с обработкой файлов cookie
+      вашего браузера. Однако вы можете запретить обработку некоторых типов файлов cookie в настройках
+      вашего браузера либо на странице «Уведомление об
+      использовании файлов cookie».
 extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
