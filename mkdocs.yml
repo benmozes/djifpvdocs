@@ -134,8 +134,16 @@ watch:
 plugins:
   - search
   - git-revision-date-localized:
-      enable_creation_date: false
+      type: timeago
+      custom_format: "%d. %B %Y"
+      timezone: Europe/Amsterdam
+      locale: en
       fallback_to_build_date: false
-      locale: en 
+      enable_creation_date: false
+      exclude:
+          - index.md
+      enable_git_follow: true
+      enabled: true
+      strict: true
   - tags:
       tags_file: tags.md
