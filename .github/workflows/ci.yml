@@ -18,7 +18,15 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
           fetch-depth: 0
+          sparse-checkout: |
+            docs
+            includes
+            material/overrides
+            src/templates/partials/languages
       - run: pip install mkdocs
       - run: pip install mkdocs-material
       - run: pip install neoteroi-mkdocs
