@@ -11,18 +11,28 @@
 !!! warning ""
     Избегайте попадания клея на разъемы, кнопки, и внутрь коннекторов.
 Зеленым помечены области для герметзации.
+
+## o4 камера
+### шаг 1
 <figure markdown="span">
     ![Image title](./images/o4_cam.jpg){ width="100%" }
     <figcaption>задняя часть камеры</figcaption>
 </figure>
+
+### шаг 2
 <figure markdown="span">
     ![Image title](./images/o4_cam_2.jpg){ width="100%" }
     <figcaption>передняя часть камеры</figcaption>
 </figure>
+
+## o4 unit
+### шаг 3
 <figure markdown="span">
     ![Image title](./images/o4_top.jpg){ width="100%" }
     <figcaption>верхняя часть юнита</figcaption>
 </figure>
+
+### шаг 4
 <figure markdown="span">
     ![Image title](./images/o4_bottom.jpg){ width="100%" }
     <figcaption>нижняя часть юнита</figcaption>
