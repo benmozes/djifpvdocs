@@ -1,4 +1,6 @@
 site_name: DJI Digital FPV System
+site_url: https://www.djifpv.ru/
+site_author: Stanislav Kremen
 site_description: >-
   Здесь хранится базовая информация и накопленный опыт сообщества о цифровой FPV системе от DJI для DIY носителей.
 
@@ -63,6 +65,11 @@ nav:
     - knowledge_base/index.md
     - 'FCC hack': knowledge_base/fcc.md
     - 'Таймлайн': knowledge_base/timeline.md
+    - 'Влагозащита': 
+      - knowledge_base/coating/index.md
+      - 'Caddx Vista/Runcam Link': knowledge_base/coating/coating_vista.md
+      - 'o3 Air unit': knowledge_base/coating/coating_o3.md
+      - 'o4 Air unit': knowledge_base/coating/coating_o4.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
