@@ -1,0 +1,22 @@
+.md-typeset__table {
+   min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}
+
+.green_check {
+  color: #90ef90;
+}
+
+.red_cross {
+  color: #fa6b84;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+  /* font-size: 16px; */
+}
