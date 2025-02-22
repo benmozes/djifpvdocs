@@ -144,3 +144,6 @@ plugins:
       strict: true
   - tags:
       tags_file: tags.md
+  - social:
+      cards_layout_options:
+        background_color: "#ff1493"
