@@ -3,6 +3,7 @@ tags:
   - p1
   - e3t
   - second_gen
+title: DJI Goggles Integra
 ---
 
 <figure markdown="span">

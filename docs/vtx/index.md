@@ -1,7 +1,7 @@
 ---
 icon: fontawesome/solid/microchip
+title: Список передатчиков DJI FPV System
 ---
-# Список передатчиков DJI FPV System
 
 <div class="grid cards" markdown>
 
@@ -14,7 +14,7 @@ icon: fontawesome/solid/microchip
       ![Image title](./images/dark_dji_fpv_air_unit.webp#only-dark){ width="327" }
     </figure>](air_unit.md)
 
--   :material-marker-check:{ .lg .middle } __DJI FPV Air Unit (light)__
+-   :material-marker-check:{ .lg .middle } __DJI FPV Air Unit (lite)__
 
     ---
 

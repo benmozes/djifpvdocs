@@ -1,4 +1,6 @@
-# влагозащита o4 Air Unit
+---
+title: влагозащита o4 Air Unit
+---
 <a href="https://t.me/shtarkfpv/362" target="_blank">оригинальная статья</a>
 
 !!! danger ""

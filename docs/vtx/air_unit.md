@@ -4,6 +4,7 @@ tags:
   - first_gen
   - wtfos
   - vtx
+title: DJI FPV Air Unit
 ---
 
 <figure markdown="span">

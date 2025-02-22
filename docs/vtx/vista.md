@@ -4,6 +4,7 @@ tags:
   - first_gen
   - wtfos
   - vtx
+title: Caddx Vista/Runcam Link
 ---
 
 <figure markdown="span">

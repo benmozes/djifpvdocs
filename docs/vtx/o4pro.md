@@ -4,8 +4,8 @@ tags:
   - e3t
   - third_gen
   - vtx
+title: DJI o4 Pro Air Unit
 ---
-# DJI o4 Pro Air Unit
 
 <figure markdown="span">
   ![Image title](./images/light_o4_pro.webp#only-light){ width="600" }

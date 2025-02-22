@@ -1,4 +1,7 @@
-# влагозащита Caddx Vista/Runcam Link
+---
+title:  влагозащита Caddx Vista/Runcam Link
+---
+
 <a href="https://t.me/shtarkfpv/123" target="_blank">оригинальная статья</a>
  
 Как и в случае О3 Unit - IP67 стандарта герметизацию мы не получим, однако Vista куда более жизнеспособна после разных агрессивных воздействий
