@@ -10,9 +10,9 @@ description: Air Unit (lite), Runcam Link
 ---
 
 <figure markdown="span">
-  ![Image title](./images/light_vista.webp#only-light){ width="600" }
-  ![Image title](./images/dark_vista.webp#only-dark){ width="600" }
-  <figcaption>DJI FPV Air Unit (lite)</figcaption>
+  ![Image title](./images/light_vista.webp#only-light){ width="100%" }
+  ![Image title](./images/dark_vista.webp#only-dark){ width="100%" }
+  <figcaption>Caddx Vista</figcaption>
 </figure>
 
 # Caddx Vista

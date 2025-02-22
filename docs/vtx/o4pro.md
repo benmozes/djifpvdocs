@@ -8,8 +8,8 @@ title: DJI o4 Pro Air Unit
 ---
 # DJI o4 Pro Air Unit
 <figure markdown="span">
-  ![Image title](./images/light_o4_pro.webp#only-light){ width="600" }
-  ![Image title](./images/dark_o4_pro.webp#only-dark){ width="600" }
+  ![Image title](./images/light_o4_pro.webp#only-light){ width="100%" }
+  ![Image title](./images/dark_o4_pro.webp#only-dark){ width="100%" }
   <figcaption>DJI o4 Pro Air Unit</figcaption>
 </figure>
 
