@@ -146,4 +146,4 @@ plugins:
       tags_file: tags.md
   - social:
       cards_layout_options:
-        background_color: "#ff1493"
+        background_color: "#48c9b0"
