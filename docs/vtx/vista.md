@@ -6,7 +6,7 @@ tags:
   - vtx
 title: Caddx Vista/Runcam Link
 ---
-# DJI o4 Air Unit
+# Caddx Vista/Runcam Link
 <figure markdown="span">
   ![Image title](./images/light_vista.webp#only-light){ width="600" }
   ![Image title](./images/dark_vista.webp#only-dark){ width="600" }
