@@ -3,9 +3,16 @@ This file was automatically generated - do not edit
 -#}
 {% block extrahead %}
   <style>
-    /* .md-sidebar--primary {
-      display: none !important;
-    } */
+    .md-sidebar {
+      display: none; /* Скрываем по умолчанию */
+    }
+
+    @media (max-width: 768px) { 
+        .md-sidebar {
+            display: block; /* Показываем на мобильных */
+
+        }
+    }
     .md-content {
       margin-left: 0 !important;
     }
