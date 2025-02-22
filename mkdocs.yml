@@ -64,12 +64,12 @@ nav:
   - База знаний: 
     - knowledge_base/index.md
     - 'FCC hack': knowledge_base/fcc.md
-    - 'Таймлайн': knowledge_base/timeline.md
     - 'Влагозащита': 
       - knowledge_base/coating/index.md
       - 'Caddx Vista/Runcam Link': knowledge_base/coating/coating_vista.md
       - 'o3 Air unit': knowledge_base/coating/coating_o3.md
       - 'o4 Air unit (lite)': knowledge_base/coating/coating_o4.md
+    - 'Таймлайн': knowledge_base/timeline.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
