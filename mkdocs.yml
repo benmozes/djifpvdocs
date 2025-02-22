@@ -134,10 +134,6 @@ watch:
 plugins:
   - search
   - git-revision-date-localized:
-      type: timeago
-      custom_format: "%d. %B %Y"
-      timezone: Europe/Amsterdam
-      locale: en
       fallback_to_build_date: false
       enable_creation_date: false
       exclude:
