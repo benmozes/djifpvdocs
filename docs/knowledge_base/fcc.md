@@ -6,7 +6,7 @@ tags:
     - third_gen
 title:  FCC хак
 ---
-# Fcc hack
+# FCC hack
 
 * :octicons-info-24: первое поколение &mdash; актуально для первого поколения юнитов в связке с DJI FPV Goggles или DJI FPV Goggles V2
 * :octicons-info-24: второе и третье поколение — актуально для следующих связок:
