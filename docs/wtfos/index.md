@@ -2,6 +2,7 @@
 icon: simple/1panel
 tags:
     - first_gen
+    - wtfos
 title: WTFOS
 ---
 # WTFOS
