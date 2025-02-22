@@ -1,6 +1,7 @@
 ---
 title:  влагозащита Caddx Vista/Runcam Link
 ---
+# влагозащита Caddx Vista/Runcam Link
 
 <a href="https://t.me/shtarkfpv/123" target="_blank">оригинальная статья</a>
  

@@ -1,9 +1,8 @@
 ---
 icon: fontawesome/solid/vr-cardboard
+title: Список очков DJI FPV System
 ---
-
 # Список очков DJI FPV System
-
 <div class="grid cards" markdown>
 
 -   :material-marker-check:{ .lg .middle } __DJI FPV Goggles__

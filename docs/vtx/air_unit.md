@@ -6,7 +6,7 @@ tags:
   - vtx
 title: DJI FPV Air Unit
 ---
-
+# DJI FPV Air Unit
 <figure markdown="span">
   ![Image title](./images/light_dji_fpv_air_unit.webp#only-light){ width="600" }
   ![Image title](./images/dark_dji_fpv_air_unit.webp#only-dark){ width="600" }

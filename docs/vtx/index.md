@@ -2,6 +2,7 @@
 icon: fontawesome/solid/microchip
 title: Список передатчиков DJI FPV System
 ---
+# Список передатчиков DJI FPV System
 
 <div class="grid cards" markdown>
 
