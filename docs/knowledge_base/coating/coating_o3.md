@@ -26,7 +26,7 @@
 Нанести тонкий слой по контуру линзы объектива, так как там сквозная щель, идущая до платы камеры. И которая со временем станет «пыле-влаго-сборником».
 <figure markdown="span">
     ![Image title](./images/o3_2.png){ width="100%" }
-    <figcaption>шаг 3</figcaption>
+    <figcaption>шаг 2</figcaption>
 </figure>
 
 ## o3 unit
@@ -54,7 +54,7 @@
     С этой стороны платы не допускать попадания в SD-слот, а также не покрывать область - где оба коннектора (помечено красным).
 <figure markdown="span">
     ![Image title](./images/o3_5.webp){ width="100%" }
-    <figcaption>шаг 4</figcaption>
+    <figcaption>шаг 5</figcaption>
 </figure>
 
 ### шаг 6
@@ -65,7 +65,7 @@
     Не допускайте попадание герметика в антенные u.fl коннекторы!
 <figure markdown="span">
     ![Image title](./images/o3_6.webp){ width="100%" }
-    <figcaption>шаг 4</figcaption>
+    <figcaption>шаг 6</figcaption>
 </figure>
 
 ### шаг 7
@@ -74,7 +74,7 @@
     Не покрывать область где подключается межплатный шлейф (помечено красным).
 <figure markdown="span">
     ![Image title](./images/o3_7.webp){ width="100%" }
-    <figcaption>шаг 4</figcaption>
+    <figcaption>шаг 7</figcaption>
 </figure>
 
 !!! question ""
