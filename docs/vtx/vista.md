@@ -4,14 +4,22 @@ tags:
   - first_gen
   - wtfos
   - vtx
-title: Caddx Vista/Runcam Link
+title: Caddx Vista
+subtitle: Air Unit (lite), Runcam Link
+description: Air Unit (lite), Runcam Link
 ---
-# Caddx Vista/Runcam Link
+
 <figure markdown="span">
   ![Image title](./images/light_vista.webp#only-light){ width="600" }
   ![Image title](./images/dark_vista.webp#only-dark){ width="600" }
   <figcaption>DJI FPV Air Unit (lite)</figcaption>
 </figure>
+
+# Caddx Vista
+???+ tip "note"
+    так же известная как Air Unit (lite), Runcam Link
+    
+    не пытайтесь искать разницу, это один и тот же юнит, с одного и того же завода
 
 ### дата релиза
 - 2020-01-13

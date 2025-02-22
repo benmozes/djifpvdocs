@@ -78,9 +78,9 @@ nav:
     - 'FCC hack': knowledge_base/fcc.md
     - 'Влагозащита': 
       - knowledge_base/coating/index.md
-      - 'Caddx Vista/Runcam Link': knowledge_base/coating/coating_vista.md
+      - 'Caddx Vista': knowledge_base/coating/coating_vista.md
       - 'o3 Air unit': knowledge_base/coating/coating_o3.md
-      - 'o4 Air unit (lite)': knowledge_base/coating/coating_o4.md
+      - 'o4 Air unit': knowledge_base/coating/coating_o4.md
     - 'Таймлайн': knowledge_base/timeline.md
   - Очки:
     - goggles/index.md
@@ -93,7 +93,7 @@ nav:
   - Видеопередатчики:
     - vtx/index.md
     - 'DJI Air Unit': vtx/air_unit.md
-    - 'DJI Air Unit (lite)/Caddx Vista/Runcam link': vtx/vista.md
+    - 'Caddx Vista': vtx/vista.md
     - 'DJI o3 Air Unit': vtx/o3.md
     - 'DJI o4 Air Unit': vtx/o4.md
     - 'DJI o4 Air Unit Pro': vtx/o4pro.md

@@ -2,7 +2,7 @@
 title: влагозащита o4 Air Unit
 ---
 
-# влагозащита o4 Air Unit
+# влагозащита o4 Air Unit (lite)
 
 <a href="https://t.me/shtarkfpv/362" target="_blank">оригинальная статья</a>
 

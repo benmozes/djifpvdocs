@@ -1,7 +1,8 @@
 ---
-title:  влагозащита Caddx Vista/Runcam Link
+title:  влагозащита Caddx Vista
+subtitle: Air Unit (lite), Runcam Link
 ---
-# влагозащита Caddx Vista/Runcam Link
+# влагозащита Caddx Vista
 
 <a href="https://t.me/shtarkfpv/123" target="_blank">оригинальная статья</a>
  
