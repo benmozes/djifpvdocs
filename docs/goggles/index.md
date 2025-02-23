@@ -5,7 +5,7 @@ title: Список очков DJI FPV System
 # Список очков DJI FPV System
 <div class="grid cards" markdown>
 
--   :material-marker-check:{ .lg .middle } __DJI FPV Goggles__
+-   :material-book-information-variant:{ .lg .middle } __DJI FPV Goggles__
 
     ---
 
@@ -14,7 +14,7 @@ title: Список очков DJI FPV System
       ![Image title](./images/fpv_goggles_dark.webp#only-dark){ width="70%" }
     </figure>](v1.md)
 
--   :material-marker-check:{ .lg .middle } __DJI FPV Goggles v2__
+-   :material-book-information-variant:{ .lg .middle } __DJI FPV Goggles v2__
 
     ---
 
@@ -23,7 +23,7 @@ title: Список очков DJI FPV System
       ![Image title](./images/fpv_goggles_v2_dark.webp#only-dark){ width="70%" }
     </figure>](v2.md)
 
--   :material-marker-check:{ .lg .middle } __Goggles 2__
+-   :material-book-information-variant:{ .lg .middle } __Goggles 2__
 
     ---
     [<figure markdown="span">
@@ -31,7 +31,7 @@ title: Список очков DJI FPV System
       ![Image title](./images/goggles2_dark.webp#only-dark){ width="70%" }
     </figure>](g2.md)
 
--   :material-marker-check:{ .lg .middle } __Goggles Integra__
+-   :material-book-information-variant:{ .lg .middle } __Goggles Integra__
 
     ---
      [<figure markdown="span">
@@ -39,7 +39,7 @@ title: Список очков DJI FPV System
       ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="70%" }
     </figure>](integra.md)
 
--   :material-marker-check:{ .lg .middle } __Goggles 3__
+-   :material-book-information-variant:{ .lg .middle } __Goggles 3__
 
     ---
     [<figure markdown="span">
@@ -47,7 +47,7 @@ title: Список очков DJI FPV System
       ![Image title](./images/goggles3_dark.webp#only-dark){ width="70%" }
     </figure>](g3.md)
 
--   :material-marker-check:{ .lg .middle } __Goggles N3__
+-   :material-book-information-variant:{ .lg .middle } __Goggles N3__
 
     ---
    [<figure markdown="span">

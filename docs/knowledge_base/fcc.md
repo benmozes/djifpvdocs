@@ -1,5 +1,5 @@
 ---
-icon: material/powershell
+icon: simple/fcc
 tags:
     - first_gen
     - second_gen
