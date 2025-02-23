@@ -8,6 +8,7 @@ title: Caddx Vista
 subtitle: Air Unit (lite), Runcam Link
 description: Air Unit (lite), Runcam Link
 ---
+# Caddx Vista
 
 <figure markdown="span">
   ![Image title](./images/light_vista.webp#only-light){ width="100%" }
@@ -15,7 +16,6 @@ description: Air Unit (lite), Runcam Link
   <figcaption>Caddx Vista</figcaption>
 </figure>
 
-# Caddx Vista
 ???+ tip "note"
     так же известная как Air Unit (lite), Runcam Link
     
