@@ -9,4 +9,4 @@ title: Влагозащита юнитов
 3. o4 Air Unit
     1. <a data-preview="" href="../coating/coating_o4/#влагозащита-o4-air-unit">lite</a>
 
-по материалам <a href="https://t.me/shtarkfpv" target="_blank">SHTARK FPV</a>
+по материалам канала <a href="https://t.me/shtarkfpv" target="_blank">SHTARK FPV</a>
