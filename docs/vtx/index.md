@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/microchip
+icon: octicons/cpu-24
 title: Список передатчиков DJI FPV System
 ---
 # Список передатчиков DJI FPV System
