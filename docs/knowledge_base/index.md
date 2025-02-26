@@ -37,13 +37,13 @@ title:  Добро пожаловать
     - [ ] юниты:
         * [ ] DJI FPV Air Unit
             * [x] совместимость
-            * [x] ключевые параметры
+            * [ ] ключевые параметры
         * [ ] DJI Air Unit (lite)/Caddx Vista/Runcam link
             * [x] совместимость
-            * [x] ключевые параметры
+            * [ ] ключевые параметры
         * [ ] DJI o3 Air Unit
             * [x] совместимость
-            * [x] ключевые параметры
+            * [ ] ключевые параметры
             * [ ] o3 Air Unit камера
         * [ ] DJI o4 Air Unit
             * [x] совместимость
@@ -60,6 +60,21 @@ title:  Добро пожаловать
         * [ ] DJI FPV Remote Controller 2
         * [ ] DJI FPV Remote Controller 3
     - [ ] WTFOS
-    - [ ] FAQ:
+        * [x] Совместимость
+        * [ ] Root
+        * [ ] настройка Betaflight
+        * [ ] установка Fake_HD
+        * [ ] дополнительные пакеты
+        * [ ] добавление OSD на видео
+        * [ ] 30/60 Mbps
+    - [ ] FAQ: 
         * [x] FCC hack
+        * [x] влагозащита
+        * [ ] DJI Fly
+            * [x] Android
+            * [ ] iOS
+        * [ ] передача видео из очков
+            * [ ] DJI Fly
+            * [ ] Cosmostreamer
+            * [ ] DJI RC Pro
     - [ ] глоссарий
