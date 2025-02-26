@@ -78,7 +78,7 @@ title: DJI Goggles Integra
     * :material-link-off:{ .red_cross } первое поколение юнитов
     * :material-link:{ .green_check } o3 Air Unit
 * :material-link:{ .green_check }  DJI Goggles 2
-* * :material-link:{ .green_check }  DJI Goggles Integra
+* :material-link:{ .green_check }  DJI Goggles Integra
 * :material-link-off:{ .red_cross }  DJI Goggles 3
 * :material-link-off:{ .red_cross }  DJI Goggles N3
     
