@@ -17,6 +17,7 @@ theme:
     next: fontawesome/solid/angle-right
     logo: simple/dji
     annotation: material/lightbulb-alert-outline
+  language: ru
   features:
     - content.code.annotate
     - navigation.tabs
