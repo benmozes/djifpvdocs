@@ -5,7 +5,10 @@ title: Известные баги
 
 # Известные баги
 
-## низкий битрейт o4/o4 pro
+* :material-bug-play-outline:{ .red_cross } баг не исправлен
+* :material-bug-check:{ .green_check } баг исправлен
+
+## :material-bug-play-outline:{ .red_cross } низкий битрейт o4/o4 pro
 
 у части пользователей в авто режиме каналов юниты выдают не больше 15/30Mbps
 
