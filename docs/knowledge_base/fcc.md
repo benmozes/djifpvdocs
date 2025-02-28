@@ -8,15 +8,15 @@ title:  FCC хак
 ---
 # FCC hack
 
-* :octicons-info-24: первое поколение &mdash; актуально для первого поколения юнитов в связке с DJI FPV Goggles или DJI FPV Goggles V2
-* :octicons-info-24: второе и третье поколение — актуально для следующих связок:
+* :material-roman-numeral-1: первое поколение &mdash; актуально для первого поколения юнитов в связке с DJI FPV Goggles или DJI FPV Goggles V2
+* :material-roman-numeral-2:/:material-roman-numeral-3: второе и третье поколение — актуально для следующих связок:
     - Air Unit + Goggles 2/Integra
     - Air Unit (lite) + Goggles 2/Integra
     - o3 Air Unit + любые очки
     - o4 Air Unit + любые очки
     - o4 Air Unit Pro + любые очки
 
-=== "Первое поколение"
+=== ":material-roman-numeral-1: первое поколение"
     
     
     ???+ info
@@ -57,7 +57,7 @@ title:  FCC хак
         * 7 – BR Brazil 4 Channels
         * 8 – FR CCA 4 Channels
 
-=== "Второе и третье поколение"
+=== ":material-roman-numeral-2:/:material-roman-numeral-3: второе и третье поколение"
     
     ???+ info
         * DJI сильно упростили FCC hack во втором и следующем поколениях, теперь достаточно добавления одного файла в очки

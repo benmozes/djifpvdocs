@@ -10,23 +10,23 @@ title:  Добро пожаловать
 ### планы:
 ???+ abstract "to do:"
     - [ ] очки:
-        * [ ] DJI FPV Goggles
+        * [x] DJI FPV Goggles
             * [x] совместимость
             * [x] ключевые параметры
             * [x] audeince mode (трансляция)
-        * [ ] DJI FPV Goggles V2
+        * [x] DJI FPV Goggles V2
             * [x] совместимость
             * [x] ключевые параметры
             * [x] audeince mode (трансляция)
-        * [ ] DJI Goggles 2
+        * [x] DJI Goggles 2
             * [x] совместимость
             * [x] ключевые параметры
             * [x] audeince mode (трансляция)
-        * [ ] DJI Goggles Integra
+        * [x] DJI Goggles Integra
             * [x] совместимость
             * [x] ключевые параметры
             * [x] audeince mode (трансляция)
-        * [ ] DJI Goggles 3
+        * [x] DJI Goggles 3
             * [x] совместимость
             * [x] ключевые параметры
             * [x] audeince mode (трансляция)
