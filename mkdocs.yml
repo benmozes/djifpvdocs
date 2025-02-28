@@ -77,6 +77,7 @@ nav:
   - База знаний: 
     - knowledge_base/index.md
     - 'FCC hack': knowledge_base/fcc.md
+    - 'Известные баги': knowledge_base/known_bugs.md
     - 'Влагозащита': 
       - knowledge_base/coating/index.md
       - 'Caddx Vista': knowledge_base/coating/coating_vista.md
