@@ -16,7 +16,7 @@ title: DJI Goggles Integra
 - 2023-03-28
 
 ### актуальная прошивка
-- v01.07.00.00
+- v01.08.00.00
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
 
 ### совместимость
