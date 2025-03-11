@@ -1,4 +1,4 @@
-site_name: DJI Digital FPV System
+site_name: DJI Digital FPV
 site_url: https://www.djifpv.ru/
 site_author: Stanislav Kremen
 site_description: >-
@@ -17,9 +17,14 @@ theme:
     next: fontawesome/solid/angle-right
     logo: simple/dji
     annotation: material/lightbulb-alert-outline
+    repo: fontawesome/brands/github
+    edit: material/pencil-outline
+    view: material/eye-outline
   language: ru
   features:
     - content.code.annotate
+    - content.action.view
+    - content.action.edit
     - navigation.tabs
     # - navigation.sections
     - content.code.copy
