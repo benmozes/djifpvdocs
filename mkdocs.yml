@@ -76,6 +76,7 @@ nav:
   - Home: index.md
   - База знаний: 
     - knowledge_base/index.md
+    - 'Совместимость': knowledge_base/compatibility.md
     - 'FCC hack': knowledge_base/fcc.md
     - 'Известные баги': knowledge_base/known_bugs.md
     - 'Влагозащита': 
