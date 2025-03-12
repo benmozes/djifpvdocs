@@ -2,24 +2,6 @@
 This file was automatically generated - do not edit
 -#}
 {% block extrahead %}
-  <style>
-    .md-sidebar {
-      display: none !important; /* Скрываем по умолчанию */
-    }
-
-    @media (max-width: 768px) { 
-        .md-sidebar {
-            display: block; /* Показываем на мобильных */
-
-        }
-    }
-    .md-content {
-      margin-left: 0 !important;
-    }
-    .md-footer {
-      display: none !important;
-    }
-  </style>
 {% endblock %}
 {% extends "main.html" %}
 {% block tabs %}
@@ -68,7 +50,22 @@ This file was automatically generated - do not edit
         display: inline-block;
         text-align: center;
     }
-    </style>
+    /* .md-sidebar {
+      display: none; /* Скрываем по умолчанию 
+    } */
+
+    @media screen and (min-width:76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+    }
+    .md-content {
+      margin-left: 0 !important;
+    }
+    .md-footer {
+      display: none !important;
+    }
+      </style>
 {% endblock %}
 {% block content %}
 <main class="md-main">
