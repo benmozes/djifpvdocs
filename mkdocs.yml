@@ -7,6 +7,7 @@ site_description: >-
 # Repository
 repo_name: benmozes/djifpvdocs
 repo_url: https://github.com/benmozes/djifpvdocs
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -43,21 +44,21 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
-        name: Switch to light mode
+        name: переключить в светлый режим
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: переключить в темный режим
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to system preference
+        name: тема в соответствии системной
 extra:
   social:
     - icon: fontawesome/brands/telegram
