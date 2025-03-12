@@ -1,22 +1,4 @@
 
-  <style>
-    .md-sidebar {
-      display: none !important; /* Скрываем по умолчанию */
-    }
-
-    @media (max-width: 768px) { 
-        .md-sidebar {
-            display: block; /* Показываем на мобильных */
-
-        }
-    }
-    .md-content {
-      margin-left: 0 !important;
-    }
-    .md-footer {
-      display: none !important;
-    }
-  </style>
 
 
 <!doctype html>
@@ -123,24 +105,6 @@
       
     
     
-  <style>
-    .md-sidebar {
-      display: none !important; /* Скрываем по умолчанию */
-    }
-
-    @media (max-width: 768px) { 
-        .md-sidebar {
-            display: block; /* Показываем на мобильных */
-
-        }
-    }
-    .md-content {
-      margin-left: 0 !important;
-    }
-    .md-footer {
-      display: none !important;
-    }
-  </style>
 
   </head>
   
@@ -485,7 +449,22 @@
         display: inline-block;
         text-align: center;
     }
-    </style>
+    /* .md-sidebar {
+      display: none; /* Скрываем по умолчанию 
+    } */
+
+    @media screen and (min-width:76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+    }
+    .md-content {
+      margin-left: 0 !important;
+    }
+    .md-footer {
+      display: none !important;
+    }
+      </style>
 
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
