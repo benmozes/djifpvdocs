@@ -1,0 +1,103 @@
+---
+icon: material/symbol
+title: Настройка OSD
+---
+
+# Настройка OSD
+
+## Betaflight
+
+### физическое подключение юнита
+
+Подключите видеопредатчик к полетному контроллеру согласно инструкции полетного контроллера:
+
+- видеопередатчик TX :material-arrow-right: RX полетный контроллер
+- видеопередатчик RX :material-arrow-left: TX полетный контроллер
+
+### настройка в Betaflight configurator
+
+1. во вкладке портов ниобходимо активировать MSP на топ порту, куда подключены RX и TX видеопередатчика
+    <figure markdown="span">
+    ![Image title](./images/ports_light.webp#only-light){ width="100%" }
+    ![Image title](./images/ports_dark.webp#only-dark){ width="100%" }
+    <figcaption>активация MSP</figcaption>
+    </figure>
+2. начиная с версии 4.4 небходимо проверить что в колонке периферия выбрана опция VTX(MSP+Displayport)
+    <figure markdown="span">
+    ![Image title](./images/beta_msp_light.webp#only-light){ width="100%" }
+    ![Image title](./images/beta_msp_dark.webp#only-dark){ width="100%" }
+    <figcaption>выбор опции в периферии</figcaption>
+    </figure>
+    - [опционально] можно проверить в консоли, что опция MSP+Displayport включилась корректно
+        - введите следующую команду в консоль Betaflight конфигуратора 
+        ``` title='Betaflight CLI'
+        get display
+        ```
+        - проверьте полученный ответ на команду:
+        === "правильный ответ консоли"
+            ``` hl_lines="5"
+            # get display
+            vbat_display_lpf_period = 30
+            Allowed range: 1 - 255
+
+            osd_displayport_device = MSP
+            Allowed values: NONE, AUTO, MAX7456, MSP, FRSKYOSD
+
+            displayport_msp_col_adjust = 0
+            Allowed range: -6 - 0
+
+            displayport_msp_row_adjust = 0
+            Allowed range: -3 - 0
+
+            displayport_msp_fonts = 0,1,2,3
+            Array length: 4
+
+            displayport_msp_use_device_blink = OFF
+            Allowed values: OFF, ON
+            ```
+        === "неправильный ответ консоли"
+            ``` hl_lines="5"
+            # get display
+            vbat_display_lpf_period = 30
+            Allowed range: 1 - 255
+
+            osd_displayport_device = AUTO
+            Allowed values: NONE, AUTO, MAX7456, MSP, FRSKYOSD
+            Default value: MSP
+
+            displayport_msp_col_adjust = 0
+            Allowed range: -6 - 0
+
+            displayport_msp_row_adjust = 0
+            Allowed range: -3 - 0
+
+            displayport_msp_fonts = 0,1,2,3
+            Array length: 4
+
+            displayport_msp_use_device_blink = OFF
+            Allowed values: OFF, ON
+            ```
+        - если вы видите __osd_displayport_device = AUTO__ исправить можно через консоль, введите следующую команду:
+        ``` title='Betaflight CLI'
+        set osd_displayport_device = MSP
+        ```
+        - не забывайте сохранить новые настройки:
+        ``` title='Betaflight CLI'
+        save
+        ```
+3. Настройка HD OSD
+    1. Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: установите опцию HD
+        <figure markdown="span">
+        ![Image title](./images/osd_light.webp#only-light){ width="100%" }
+        ![Image title](./images/osd_dark.webp#only-dark){ width="100%" }
+        <figcaption>HD OSD</figcaption>
+        </figure>
+    2. В меню очков нужно выбрать режим холста HD
+        <figure markdown="span">
+        ![Image title](./images/image-12.png#only-light){ width="100%" }
+        ![Image title](./images/image-12.png#only-dark){ width="100%" }
+        <figcaption>выбор опции в очках</figcaption>
+        </figure>
+        - Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
+        - Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
+

@@ -84,6 +84,7 @@ nav:
     - knowledge_base/index.md
     - 'Совместимость': knowledge_base/compatibility.md
     - 'FCC hack': knowledge_base/fcc.md
+    - 'Настройка OSD': knowledge_base/osd.md
     - 'Известные баги': knowledge_base/known_bugs.md
     - 'Влагозащита': 
       - knowledge_base/coating/index.md
@@ -121,6 +122,8 @@ markdown_extensions:
   - abbr
   - pymdownx.critic
   - admonition
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.superfences:
