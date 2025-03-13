@@ -1,4 +1,4 @@
-site_name: DJI Digital FPV
+site_name: DJI Digital FPV System
 site_url: https://www.djifpv.ru/
 site_author: Stanislav Kremen
 site_description: >-
@@ -83,8 +83,8 @@ nav:
   - База знаний: 
     - knowledge_base/index.md
     - 'Совместимость': knowledge_base/compatibility.md
-    - 'FCC hack': knowledge_base/fcc.md
     - 'Настройка OSD': knowledge_base/osd.md
+    - 'FCC hack': knowledge_base/fcc.md
     - 'Известные баги': knowledge_base/known_bugs.md
     - 'Влагозащита': 
       - knowledge_base/coating/index.md
