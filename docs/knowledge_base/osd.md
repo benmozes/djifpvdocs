@@ -1,7 +1,7 @@
 ---
 icon: material/symbol
 title: Настройка OSD
-glightbox-manual: true
+glightbox: true
 ---
 
 # Настройка OSD

@@ -1,7 +1,6 @@
 ---
 icon: material/file-download-outline
 title:  DJI Fly
-glightbox-manual: true
 ---
 
 

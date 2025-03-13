@@ -5,7 +5,6 @@ tags:
     - second_gen
     - third_gen
 title:  FCC хак
-glightbox-manual: true
 ---
 # FCC hack
 

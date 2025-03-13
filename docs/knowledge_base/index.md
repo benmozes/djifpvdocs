@@ -1,7 +1,6 @@
 ---
 icon: material/book-outline
 title:  Добро пожаловать
-glightbox-manual: true
 ---
 
 # Добро пожаловать

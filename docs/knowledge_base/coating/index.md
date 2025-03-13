@@ -1,7 +1,6 @@
 ---
 icon: material/water-off-outline
 title: Влагозащита юнитов
-glightbox-manual: true
 ---
 # Влагозащита юнитов
 

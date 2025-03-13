@@ -1,7 +1,7 @@
 ---
 icon: material/relation-only-one-to-only-one
 title:  Совместимость
-glightbox-manual: true
+glightbox: true
 ---
 
 # Общая таблица совместимости 

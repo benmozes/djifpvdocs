@@ -1,7 +1,6 @@
 ---
 title:  влагозащита Caddx Vista
 subtitle: Air Unit (lite), Runcam Link
-glightbox-manual: true
 ---
 # влагозащита Caddx Vista
 
