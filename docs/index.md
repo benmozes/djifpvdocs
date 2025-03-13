@@ -1,8 +1,7 @@
 ---
 template: home.html
-title: DJI Digital FPV System
+title: Для тех, кому недостаточно готовых решений от DJI
 social:
   cards_layout_options:
-    title: Для тех, кому недостаточно готовых решений от DJI
+    title: DJI Digital FPV System
 ---
-# Welcome to DJI FPV Docs.
