@@ -6,6 +6,11 @@ glightbox: true
 
 # Настройка OSD
 
+!!! abstract "замечание"
+
+    <p>на текущий момент здесь описаны настройки для актуальных версий полетных контроллеров + очков, которые могут нативно отображать полноценное HD OSD
+    <p>легаси настройки + настройки девайсов с WTFOS будут добавлены чуть позже
+
 ## физическое подключение юнита
 
 Подключите видеопредатчик к полетному контроллеру согласно инструкции полетного контроллера:
@@ -13,17 +18,30 @@ glightbox: true
 - видеопередатчик TX :material-arrow-right: RX полетный контроллер
 - видеопередатчик RX :material-arrow-left: TX полетный контроллер
 
-## Betaflight
+## настройка очков
+в меню очков нужно выбрать режим холста HD
+    <figure markdown="span">
+    ![Image title](./images/image-12.png#only-light){ width="100%" }
+    ![Image title](./images/image-12.png#only-dark){ width="100%" }
+    <figcaption>выбор опции в очках</figcaption>
+    </figure>
 
-### настройка в Betaflight configurator
+- Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
+- Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
 
-1. во вкладке портов ниобходимо активировать MSP на том порту, куда подключены RX и TX видеопередатчика
+## настройки в зависимости от софта полетного контроллера:
+
+### Betaflight
+
+1. #### Ports.MSP 
+    во вкладке портов ниобходимо активировать MSP на том порту, куда подключены RX и TX видеопередатчика
     <figure markdown="span">
     ![Image title](./images/ports_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/ports_dark.webp#only-dark){ width="100%" .on-glb }
     <figcaption>активация MSP</figcaption>
     </figure>
-2. начиная с версии Betaflight 4.4 небходимо выбрать в колонке периферия опцию VTX(MSP+Displayport)
+2. #### Ports.Peripherials 
+    начиная с версии Betaflight 4.4 небходимо выбрать в колонке периферия опцию VTX(MSP+Displayport)
     <figure markdown="span">
     ![Image title](./images/beta_msp_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/beta_msp_dark.webp#only-dark){ width="100%" .on-glb }
@@ -86,19 +104,11 @@ glightbox: true
         ``` title='Betaflight CLI'
         save
         ```
-3. Настройка HD OSD
-    1. Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: установите опцию HD
-        <figure markdown="span">
-        ![Image title](./images/osd_light.webp#only-light){ width="100%" .on-glb }
-        ![Image title](./images/osd_dark.webp#only-dark){ width="100%" .on-glb }
-        <figcaption>HD OSD</figcaption>
-        </figure>
-    2. В меню очков нужно выбрать режим холста HD
-        <figure markdown="span">
-        ![Image title](./images/image-12.png#only-light){ width="100%" }
-        ![Image title](./images/image-12.png#only-dark){ width="100%" }
-        <figcaption>выбор опции в очках</figcaption>
-        </figure>
-        - Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
-        - Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
+3. #### OSD
 
+Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: установите опцию HD
+    <figure markdown="span">
+    ![Image title](./images/osd_light.webp#only-light){ width="100%" .on-glb }
+    ![Image title](./images/osd_dark.webp#only-dark){ width="100%" .on-glb }
+    <figcaption>HD OSD</figcaption>
+    </figure>
