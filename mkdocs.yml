@@ -160,6 +160,7 @@ watch:
   - includes
 plugins:
   - search
+  - glightbox
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: false

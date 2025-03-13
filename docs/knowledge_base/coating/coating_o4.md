@@ -1,5 +1,6 @@
 ---
 title: влагозащита o4 Air Unit
+glightbox-manual: true
 ---
 
 # влагозащита o4 Air Unit (lite)

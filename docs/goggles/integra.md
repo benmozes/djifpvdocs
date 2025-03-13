@@ -4,6 +4,7 @@ tags:
   - e3t
   - second_gen
 title: DJI Goggles Integra
+glightbox-manual: true
 ---
 # DJI Goggles Integra
 <figure markdown="span">

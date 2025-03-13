@@ -1,5 +1,6 @@
 ---
 title: влагозащита o3 Air Unit
+glightbox-manual: true
 ---
 
 # влагозащита o3 Air Unit

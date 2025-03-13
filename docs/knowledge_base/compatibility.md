@@ -1,13 +1,14 @@
 ---
 icon: material/relation-only-one-to-only-one
 title:  Совместимость
+glightbox-manual: true
 ---
 
 # Общая таблица совместимости 
 
 <figure markdown="span">
-  ![Image title](./images/dji_digital_fpv_system_compatibility.png#only-light){ width="100%" }
-  ![Image title](./images/dji_digital_fpv_system_compatibility_dark.png#only-dark){ width="100%" }
+  ![Image title](./images/dji_digital_fpv_system_compatibility.png#only-light){ width="100%" .on-glb }
+  ![Image title](./images/dji_digital_fpv_system_compatibility_dark.png#only-dark){ width="100%" .on-glb }
   <figcaption>oбщая таблица совместимости</figcaption>
 </figure>
 

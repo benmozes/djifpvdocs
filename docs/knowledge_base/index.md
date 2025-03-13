@@ -1,6 +1,7 @@
 ---
 icon: material/book-outline
 title:  Добро пожаловать
+glightbox-manual: true
 ---
 
 # Добро пожаловать
@@ -9,16 +10,20 @@ title:  Добро пожаловать
 
 <div class="grid" markdown>
 
+:material-relation-only-one-to-only-one: [__Совместимость__](/knowledge_base/compatibility/)
+{ .card }
+
+:material-symbol: [__Настройка OSD__](/knowledge_base/OSD/)
+{ .card }
+
+:simple-fcc: [__FCC hack__](/knowledge_base/fcc/)
+{ .card }
+
+
 :fontawesome-solid-vr-cardboard: [__Очки__](/goggles/)
 { .card }
 
 :octicons-cpu-24: [__Видеопередатчики__](/vtx/)
-{ .card }
-
-:material-relation-only-one-to-only-one: [__Совместимость__](/knowledge_base/compatibility/)
-{ .card }
-
-:simple-fcc: [__FCC hack__](/knowledge_base/fcc/)
 { .card }
 
 :material-bug-outline: [__Известные баги__](/knowledge_base/known_bugs/)

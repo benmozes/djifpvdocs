@@ -1,6 +1,7 @@
 ---
 icon: material/bug-outline
 title: Известные баги
+glightbox-manual: true
 ---
 
 # Известные баги

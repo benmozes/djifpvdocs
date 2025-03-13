@@ -1,31 +1,32 @@
 ---
 icon: material/symbol
 title: Настройка OSD
+glightbox-manual: true
 ---
 
 # Настройка OSD
 
-## Betaflight
-
-### физическое подключение юнита
+## физическое подключение юнита
 
 Подключите видеопредатчик к полетному контроллеру согласно инструкции полетного контроллера:
 
 - видеопередатчик TX :material-arrow-right: RX полетный контроллер
 - видеопередатчик RX :material-arrow-left: TX полетный контроллер
 
+## Betaflight
+
 ### настройка в Betaflight configurator
 
-1. во вкладке портов ниобходимо активировать MSP на топ порту, куда подключены RX и TX видеопередатчика
+1. во вкладке портов ниобходимо активировать MSP на том порту, куда подключены RX и TX видеопередатчика
     <figure markdown="span">
-    ![Image title](./images/ports_light.webp#only-light){ width="100%" }
-    ![Image title](./images/ports_dark.webp#only-dark){ width="100%" }
+    ![Image title](./images/ports_light.webp#only-light){ width="100%" .on-glb }
+    ![Image title](./images/ports_dark.webp#only-dark){ width="100%" .on-glb }
     <figcaption>активация MSP</figcaption>
     </figure>
-2. начиная с версии 4.4 небходимо проверить что в колонке периферия выбрана опция VTX(MSP+Displayport)
+2. начиная с версии Betaflight 4.4 небходимо выбрать в колонке периферия опцию VTX(MSP+Displayport)
     <figure markdown="span">
-    ![Image title](./images/beta_msp_light.webp#only-light){ width="100%" }
-    ![Image title](./images/beta_msp_dark.webp#only-dark){ width="100%" }
+    ![Image title](./images/beta_msp_light.webp#only-light){ width="100%" .on-glb }
+    ![Image title](./images/beta_msp_dark.webp#only-dark){ width="100%" .on-glb }
     <figcaption>выбор опции в периферии</figcaption>
     </figure>
     - [опционально] можно проверить в консоли, что опция MSP+Displayport включилась корректно
@@ -88,8 +89,8 @@ title: Настройка OSD
 3. Настройка HD OSD
     1. Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: установите опцию HD
         <figure markdown="span">
-        ![Image title](./images/osd_light.webp#only-light){ width="100%" }
-        ![Image title](./images/osd_dark.webp#only-dark){ width="100%" }
+        ![Image title](./images/osd_light.webp#only-light){ width="100%" .on-glb }
+        ![Image title](./images/osd_dark.webp#only-dark){ width="100%" .on-glb }
         <figcaption>HD OSD</figcaption>
         </figure>
     2. В меню очков нужно выбрать режим холста HD
