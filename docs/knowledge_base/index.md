@@ -13,7 +13,7 @@ glightbox-manual: true
 :material-relation-only-one-to-only-one: [__Совместимость__](/knowledge_base/compatibility/)
 { .card }
 
-:material-symbol: [__Настройка OSD__](/knowledge_base/OSD/)
+:material-symbol: [__Настройка OSD__](/knowledge_base/osd/)
 { .card }
 
 :simple-fcc: [__FCC hack__](/knowledge_base/fcc/)
