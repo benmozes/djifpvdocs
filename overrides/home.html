@@ -32,13 +32,14 @@ This file was automatically generated - do not edit
         width: 100%;
     }
 
-    .mdx-hero__content {
-        width: 50%;
-    }
-
     .md-typeset h1 {
       color: #333333 !important;
     }
+
+
+    .mdx-hero__content {
+        width: 70%;
+      }
 
     .md-typeset p {
       color: #333333 !important;
@@ -57,6 +58,10 @@ This file was automatically generated - do not edit
     @media screen and (min-width:76.25em) {
         .md-sidebar--primary {
             display: none
+        }
+
+        .mdx-hero__content {
+        width: 50%;
         }
     }
     .md-content {
@@ -77,7 +82,6 @@ This file was automatically generated - do not edit
                 <div class="mdx-hero__content">
                   <h1>Для тех, кому недостаточно готовых решений от DJI</h1>
                   <p>{{ config.site_description }}</p>
-                  <p style="opacity: 80%;">Информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых дронах от DJI нет и не планируется.</p>
                   <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
                     База знаний
                   </a>
