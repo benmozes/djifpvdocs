@@ -23,7 +23,27 @@ This file was automatically generated - do not edit
         background: url('./assets/images/background.svg') no-repeat center center fixed;
         background-size: cover;
     }
+    /* невероятный костыль для social карточек */
+    .md-header__topic span {
+      visibility: hidden !important;
+      position: relative;
 
+    }
+
+    .md-header__topic span::after {
+      content: "DJI Digital FPV System" !important;
+      visibility: visible !important;
+      position: absolute;
+      font-weight: 700;
+      top: 0;
+      left: 0;
+      text-align: left;
+      pointer-events: auto;
+      transform: translateX(0);
+      transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .15s;
+      z-index: 0
+    }
+    /* невероятный костыль для social карточек */
     .mdx-hero {
         bottom: 3.2rem;
         display: block;
