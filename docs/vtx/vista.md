@@ -11,8 +11,8 @@ description: Air Unit (lite), Runcam Link
 # Caddx Vista
 
 <figure markdown="span">
-  ![Image title](./images/light_vista.webp#only-light){ width="100%" }
-  ![Image title](./images/dark_vista.webp#only-dark){ width="100%" }
+  ![Image title](./images/light_vista.webp#only-light){ width="50%" }
+  ![Image title](./images/dark_vista.webp#only-dark){ width="50%" }
   <figcaption>Caddx Vista</figcaption>
 </figure>
 

@@ -7,8 +7,8 @@ title: DJI Goggles Integra
 ---
 # DJI Goggles Integra
 <figure markdown="span">
-  ![Image title](./images/goggles_integra_light.webp#only-light){ width="100%" }
-  ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="100%" }
+  ![Image title](./images/goggles_integra_light.webp#only-light){ width="50%" }
+  ![Image title](./images/goggles_integra_dark.webp#only-dark){ width="50%" }
   <figcaption>DJI Goggles Integra</figcaption>
 </figure>
 
