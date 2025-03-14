@@ -20,11 +20,11 @@ glightbox: true
 
 ## настройка очков
 в меню очков нужно выбрать режим холста HD
-    <figure markdown="span">
-    ![Image title](./images/image-12.png#only-light){ width="100%" }
-    ![Image title](./images/image-12.png#only-dark){ width="100%" }
-    <figcaption>выбор опции в очках</figcaption>
-    </figure>
+<figure markdown="span">
+![Image title](./images/image-12.png#only-light){ width="100%" }
+![Image title](./images/image-12.png#only-dark){ width="100%" }
+<figcaption>выбор опции в очках</figcaption>
+</figure>
 
 - Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
 - Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
@@ -38,7 +38,7 @@ glightbox: true
     <figure markdown="span">
     ![Image title](./images/ports_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/ports_dark.webp#only-dark){ width="100%" .on-glb }
-    <figcaption>активация MSP</figcaption>
+    <figcaption>Betaflight Ports MSP </figcaption>
     </figure>
 2. #### Ports.Peripherials 
     начиная с версии Betaflight 4.4 небходимо выбрать в колонке периферия опцию VTX(MSP+Displayport)
@@ -111,4 +111,36 @@ Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-r
     ![Image title](./images/osd_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/osd_dark.webp#only-dark){ width="100%" .on-glb }
     <figcaption>HD OSD</figcaption>
+    </figure>
+
+### KISS Ultra
+
+!!! example "info"
+    DJI не поддерживает нативные шрифты Ultra, на текущий момент актуальное поколение железа DJI из коробки в связке с Ultra работает с таблицей символов Betaflight версии 4.4 (включая HD шрифты)
+
+
+1. #### Advanced.Serial Configuration
+    - Во вкладке Advanced активируйте :material-checkbox-marked-outline: «Use advanced serial configuration» в блоке Serial Configuration
+    - на нужном порту выберите из выпадающего списка MSP OSD (HD)
+    <figure markdown="span">
+    ![Image title](./images/ultra_serial.webp){ width="100%" .on-glb }
+    <figcaption>Ultra Serial Configuration</figcaption>
+    </figure>
+
+2. #### Advanced.MSP OSD
+    - Во вкладке Advanced выберите DJI o3 HD в блоке MSP OSD
+    <figure markdown="span">
+    ![Image title](./images/ultra_osd_type.webp){ width="100%" .on-glb }
+    <figcaption>Ultra Serial Configuration</figcaption>
+    </figure>
+
+3. #### OSD Mirror
+    - сохраните необходимый набор элементов в OSD Mirror на вкладке OSD
+    - [опционально] выберите формат видео для примера отображения элементов в блоке HD Camera Ratio:
+        - 16:9
+        - 4:3
+    
+    <figure markdown="span">
+    ![Image title](./images/ultra_osd_format.webp){ width="100%" .on-glb }
+    <figcaption>Ultra Serial Configuration</figcaption>
     </figure>
