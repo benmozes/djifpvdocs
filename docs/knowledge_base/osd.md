@@ -136,9 +136,6 @@ Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-r
 
 3. #### OSD Mirror
     - сохраните необходимый набор элементов в OSD Mirror на вкладке OSD
-    - [опционально] выберите формат видео для примера отображения элементов в блоке HD Camera Ratio:
-        - 16:9
-        - 4:3
     
     <figure markdown="span">
     ![Image title](./images/ultra_osd_format.webp){ width="100%" .on-glb }
