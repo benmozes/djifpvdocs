@@ -12,9 +12,5 @@ glightbox: true
   <figcaption>oбщая таблица совместимости</figcaption>
 </figure>
 
-*  PDF версия (расширенная)
-    * <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility.pdf" target="_blank">light:octicons-link-external-16:</a>
-    * <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility_dark.pdf" target="_blank">dark:octicons-link-external-16:</a>
-*  полноразмерное изображение png
-    * <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility.png" target="_blank">light:octicons-link-external-16:</a>
-    * <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility_dark.png" target="_blank">dark:octicons-link-external-16:</a>
+* <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility.pdf" target="_blank">PDF версия (расширенная):octicons-link-external-16:</a>
+* <a href="https://djifpvdocs.b-cdn.net/dji_digital_fpv_system_compatibility.png" target="_blank">полноразмерное изображение png:octicons-link-external-16:</a>
