@@ -18,6 +18,22 @@ glightbox: true
 - видеопередатчик TX :material-arrow-right: RX полетный контроллер
 - видеопередатчик RX :material-arrow-left: TX полетный контроллер
 
+=== "FPV Air Unit"
+    <figure markdown="span">
+    ![Image title](./images/dji_fpv_air_unit_wiring_light.png){ width="100%" .on-glb }
+    <figcaption>FPV Air Unit wiring</figcaption>
+    </figure>
+=== "Caddx Vista"
+    <figure markdown="span">
+    ![Image title](./images/caddx_vista_wiring_light.png){ width="100%" .on-glb }
+    <figcaption>Caddx Vista wiring</figcaption>
+    </figure>
+=== "o3"
+    <figure markdown="span">
+    ![Image title](./images/o3_wiring_light.png){ width="100%" .on-glb }
+    <figcaption>o3 Air Unit wiring</figcaption>
+    </figure>
+
 ## настройка очков
 в меню очков нужно выбрать режим холста HD
 === "язык интерфейса: русский"
