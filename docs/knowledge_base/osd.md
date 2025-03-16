@@ -135,7 +135,7 @@ Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-r
     - Во вкладке Advanced выберите DJI o3 HD в блоке MSP OSD
     <figure markdown="span">
     ![Image title](./images/ultra_osd_type.webp){ width="100%" .on-glb }
-    <figcaption>Ultra Serial Configuration</figcaption>
+    <figcaption>Ultra MSP OSD</figcaption>
     </figure>
 
 3. #### OSD Mirror
@@ -143,5 +143,5 @@ Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-r
     
     <figure markdown="span">
     ![Image title](./images/ultra_osd_format.webp){ width="100%" .on-glb }
-    <figcaption>Ultra Serial Configuration</figcaption>
+    <figcaption>Ultra OSD Mirror</figcaption>
     </figure>
