@@ -20,14 +20,18 @@ glightbox: true
 
 ## настройка очков
 в меню очков нужно выбрать режим холста HD
-<figure markdown="span">
-![Image title](./images/image-12.png#only-light){ width="100%" }
-![Image title](./images/image-12.png#only-dark){ width="100%" }
-<figcaption>выбор опции в очках</figcaption>
-</figure>
-
-- Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
-- Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
+=== "язык интерфейса: русский"
+    - Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
+    <figure markdown="span">
+    ![Image title](./images/goggles_hd_ru_dark.png){ width="100%" }
+    <figcaption>выбор опции в очках</figcaption>
+    </figure>
+=== "язык интерфейса: english"
+    - Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
+    <figure markdown="span">
+    ![Image title](./images/goggles_hd_en_dark.png){ width="100%" }
+    <figcaption>выбор опции в очках</figcaption>
+    </figure>
 
 ## настройки в зависимости от софта полетного контроллера:
 
