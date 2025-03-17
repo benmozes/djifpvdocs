@@ -1818,16 +1818,24 @@
 <p>легаси настройки + настройки девайсов с WTFOS будут добавлены чуть позже</p>
 </div>
 <h2 id="физическое-подключение-юнита">физическое подключение юнита<a class="headerlink" href="#физическое-подключение-юнита" title="Anchor link to this section for reference">⚓︎</a></h2>
-<p>Подключите видеопредатчик к полетному контроллеру согласно инструкции полетного контроллера:</p>
+<div class="admonition danger">
+<p class="admonition-title">Danger</p>
+<p><strong>всегда</strong> внимательно проверяйте распиновку полетника, идеальный вариант - с мультиметром</p>
+<p>китайцы иногда забывают актуализировать документацию или шелкографию на полетнике, и юнит получает 6s на UART</p>
+</div>
+<details class="warning">
+<summary>Warning</summary>
+<p>в сети можно встретить информацию что для o3 Air Unit необходимы строго 6 проводов, иначе юнит не будет выходить из режима низкого энергопотребления - это не соответствует действительности</p>
+<p>DJI не меняли распиновку или логику работы подключения с момента релиза DJI Digital FPV System в 2019 году, если вы не летаете с аппаратурой DJI - S.Bus и вторая земля <strong>не нужны</strong>, а иногда даже вредны, т.к. висят на втором UART и мешают подключенным к ним внешним приемникам ELRS/TBS</p>
+</details>
 <ul>
-<li>видеопередатчик TX <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span> RX полетный контроллер</li>
-<li>видеопередатчик RX <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg></span> TX полетный контроллер</li>
+<li>подключите видеопередатчик к нужному UART согласно инструкции полетного контроллера:</li>
 </ul>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:3"><input checked="checked" id="fpv-air-unit" name="__tabbed_1" type="radio" /><input id="caddx-vista" name="__tabbed_1" type="radio" /><input id="o3" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="fpv-air-unit">FPV Air Unit</label><label for="caddx-vista">Caddx Vista</label><label for="o3">o3</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="fpv-air-unit" name="__tabbed_1" type="radio" /><input id="caddx-vista" name="__tabbed_1" type="radio" /><input id="o3-air-unit" name="__tabbed_1" type="radio" /><input id="o4-air-unit" name="__tabbed_1" type="radio" /><input id="o4-pro-air-unit" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="fpv-air-unit">FPV Air Unit</label><label for="caddx-vista">Caddx Vista</label><label for="o3-air-unit">o3 Air Unit</label><label for="o4-air-unit">o4 Air Unit</label><label for="o4-pro-air-unit">o4 Pro Air Unit</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <p><figure markdown="span">
-<a class="glightbox" href="../images/dji_fpv_air_unit_wiring_light.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" class="on-glb" src="../images/dji_fpv_air_unit_wiring_light.png" width="100%" /></a>
+<a class="glightbox" href="../images/og_au_wiring_light.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" class="on-glb" src="../images/og_au_wiring_light.png" width="100%" /></a>
 <figcaption>FPV Air Unit wiring</figcaption>
 </figure></p>
 </div>
@@ -1841,6 +1849,18 @@
 <p><figure markdown="span">
 <a class="glightbox" href="../images/o3_wiring_light.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" class="on-glb" src="../images/o3_wiring_light.png" width="100%" /></a>
 <figcaption>o3 Air Unit wiring</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure markdown="span">
+<a class="glightbox" href="../images/o4lite_wiring_light.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" class="on-glb" src="../images/o4lite_wiring_light.png" width="100%" /></a>
+<figcaption>o4 Air Unit wiring</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure markdown="span">
+<a class="glightbox" href="../images/o4pro_wiring_light.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" class="on-glb" src="../images/o4pro_wiring_light.png" width="100%" /></a>
+<figcaption>o4 Pro Air Unit wiring</figcaption>
 </figure></p>
 </div>
 </div>
@@ -2024,7 +2044,7 @@ Allowed values: OFF, ON
     <span class="md-icon" title="Последнее обновление">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="16 марта 2025 г. 21:13:32">2025-03-16</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="17 марта 2025 г. 06:53:36">2025-03-17</span>
   </span>
 
     
