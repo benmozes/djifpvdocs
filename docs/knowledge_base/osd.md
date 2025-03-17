@@ -13,14 +13,21 @@ glightbox: true
 
 ## физическое подключение юнита
 
-Подключите видеопредатчик к полетному контроллеру согласно инструкции полетного контроллера:
+!!! danger
+    __всегда__ внимательно проверяйте распиновку полетника, идеальный вариант - с мультиметром
 
-- видеопередатчик TX :material-arrow-right: RX полетный контроллер
-- видеопередатчик RX :material-arrow-left: TX полетный контроллер
+    китайцы иногда забывают актуализировать документацию или шелкографию на полетнике, и юнит получает 6s на UART
+
+??? warning
+    в сети можно встретить информацию что для o3 Air Unit необходимы строго 6 проводов, иначе юнит не будет выходить из режима низкого энергопотребления - это не соответствует действительности
+
+    DJI не меняли распиновку или логику работы подключения с момента релиза DJI Digital FPV System в 2019 году, если вы не летаете с аппаратурой DJI - S.Bus и вторая земля __не нужны__, а иногда даже вредны, т.к. висят на втором UART и мешают подключенным к ним внешним приемникам ELRS/TBS
+
+- подключите видеопередатчик к нужному UART согласно инструкции полетного контроллера:
 
 === "FPV Air Unit"
     <figure markdown="span">
-    ![Image title](./images/dji_fpv_air_unit_wiring_light.png){ width="100%" .on-glb }
+    ![Image title](./images/og_au_wiring_light.png){ width="100%" .on-glb }
     <figcaption>FPV Air Unit wiring</figcaption>
     </figure>
 === "Caddx Vista"
@@ -28,10 +35,20 @@ glightbox: true
     ![Image title](./images/caddx_vista_wiring_light.png){ width="100%" .on-glb }
     <figcaption>Caddx Vista wiring</figcaption>
     </figure>
-=== "o3"
+=== "o3 Air Unit"
     <figure markdown="span">
     ![Image title](./images/o3_wiring_light.png){ width="100%" .on-glb }
     <figcaption>o3 Air Unit wiring</figcaption>
+    </figure>
+=== "o4 Air Unit"
+    <figure markdown="span">
+    ![Image title](./images/o4lite_wiring_light.png){ width="100%" .on-glb }
+    <figcaption>o4 Air Unit wiring</figcaption>
+    </figure>
+=== "o4 Pro Air Unit"
+    <figure markdown="span">
+    ![Image title](./images/o4pro_wiring_light.png){ width="100%" .on-glb }
+    <figcaption>o4 Pro Air Unit wiring</figcaption>
     </figure>
 
 ## настройка очков
