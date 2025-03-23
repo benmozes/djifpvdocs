@@ -1,6 +1,7 @@
 ---
 icon: material/bug-outline
 title: Известные баги
+description: Известные на текущий момент баги и особенности
 glightbox: true
 ---
 

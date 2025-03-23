@@ -1,6 +1,7 @@
 ---
 icon: material/file-download-outline
 title:  DJI Fly
+description: мобильное приложение для стриминга на телефон
 ---
 
 

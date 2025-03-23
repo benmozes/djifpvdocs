@@ -5,6 +5,7 @@ tags:
   - wtfos
   - vtx
 title: DJI FPV Air Unit
+description: Актуальная прошивка, спеки, совместимость
 ---
 # DJI FPV Air Unit
 <figure markdown="span">

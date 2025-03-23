@@ -6,7 +6,7 @@ tags:
   - vtx
 title: Caddx Vista
 subtitle: Air Unit (lite), Runcam Link
-description: Air Unit (lite), Runcam Link
+description: Актуальная прошивка, спеки, совместимость
 ---
 # Caddx Vista
 

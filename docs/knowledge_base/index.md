@@ -1,6 +1,7 @@
 ---
 icon: material/book-outline
-title:  Добро пожаловать
+title:  База знаний
+description: Добро пожаловвть!
 ---
 
 # Добро пожаловать

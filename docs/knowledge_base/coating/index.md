@@ -1,6 +1,7 @@
 ---
 icon: material/water-off-outline
 title: Влагозащита юнитов
+description: Инструкции и советы по влагозащите
 ---
 # Влагозащита юнитов
 

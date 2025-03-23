@@ -1,6 +1,7 @@
 ---
 icon: material/relation-only-one-to-only-one
 title:  Совместимость
+description: Актуальная таблица совместимости очков, юнитов и аппаратур управления
 glightbox: true
 ---
 
