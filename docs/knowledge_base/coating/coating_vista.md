@@ -1,6 +1,6 @@
 ---
 title:  влагозащита Caddx Vista
-subtitle: Air Unit (lite), Runcam Link
+# description: Защищаем от влаги Caddx Vista
 ---
 # влагозащита Caddx Vista
 

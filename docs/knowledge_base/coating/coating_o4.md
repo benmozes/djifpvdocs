@@ -1,5 +1,6 @@
 ---
 title: влагозащита o4 Air Unit
+# description: Защищаем от влаги o4 Air Unit
 ---
 
 # влагозащита o4 Air Unit (lite)

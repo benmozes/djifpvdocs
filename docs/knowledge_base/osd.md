@@ -1,7 +1,7 @@
 ---
 icon: material/symbol
 title: Настройка OSD
-description: 'Для актуальных прошивок полетных контроллеров: Betaflight, Kiss Ultra'
+description: 'Пожаговая инструкция для актуальных прошивок полетных контроллеров: Betaflight, Kiss Ultra'
 glightbox: true
 ---
 

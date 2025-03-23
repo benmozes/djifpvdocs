@@ -5,7 +5,7 @@ tags:
     - second_gen
     - third_gen
 title:  FCC хак
-description: разблокирут полную мощность и увеличивает кол-во каналов
+description: Как разблокировать полную мощность и увеличить кол-во каналов
 ---
 # FCC hack
 

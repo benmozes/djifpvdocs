@@ -1,7 +1,7 @@
 ---
 icon: material/water-off-outline
 title: Влагозащита юнитов
-description: Инструкции и советы по влагозащите
+description: Пошаговые инструкции для caddx vista, o3 air unit, o4 air unit
 ---
 # Влагозащита юнитов
 
