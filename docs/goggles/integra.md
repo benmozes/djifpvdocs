@@ -4,6 +4,7 @@ tags:
   - e3t
   - second_gen
 title: DJI Goggles Integra
+description: Актуальная прошивка, спеки, совместимость
 ---
 # DJI Goggles Integra
 <figure markdown="span">
@@ -72,7 +73,7 @@ title: DJI Goggles Integra
     16. **GPS**
         - да[^6]
 
-### audeince mode (трансляция)
+### audeince mode/broadcast (трансляция)
 * :material-link-off:{ .red_cross }  DJI FPV Goggles
 * :material-link:  DJI FPV Goggles V2
     * :material-link-off:{ .red_cross } первое поколение юнитов
