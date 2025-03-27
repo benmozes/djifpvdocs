@@ -10,6 +10,8 @@ description: Как разблокировать полную мощность �
 # FCC hack
 
 * :material-roman-numeral-1: первое поколение &mdash; актуально для первого поколения юнитов в связке с DJI FPV Goggles или DJI FPV Goggles V2
+    - Air Unit + DJI FPV Goggles/DJI FPV Goggles V2
+    - Caddx Vista + DJI FPV Goggles/DJI FPV Goggles V2
 * :material-roman-numeral-2:/:material-roman-numeral-3: второе и третье поколение — актуально для следующих связок:
     - Air Unit + Goggles 2/Integra
     - Caddx Vista + Goggles 2/Integra
