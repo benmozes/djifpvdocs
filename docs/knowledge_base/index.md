@@ -43,50 +43,20 @@ description: Добро пожаловвть!
 
 ## планы:
 ???+ abstract "to do:"
-    - [ ] очки:
-        * [x] DJI FPV Goggles
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [x] audeince mode (трансляция)
-        * [x] DJI FPV Goggles V2
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [x] audeince mode (трансляция)
-        * [x] DJI Goggles 2
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [x] audeince mode (трансляция)
-        * [x] DJI Goggles Integra
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [x] audeince mode (трансляция)
-        * [x] DJI Goggles 3
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [x] audeince mode (трансляция)
-        * [ ] DJI Goggles N3
-            * [x] совместимость
-            * [ ] ключевые параметры
-            * [x] audeince mode (трансляция)
-    - [ ] юниты:
-        * [ ] DJI FPV Air Unit
-            * [x] совместимость
-            * [ ] ключевые параметры
-        * [ ] DJI Air Unit (lite)/Caddx Vista/Runcam link
-            * [x] совместимость
-            * [ ] ключевые параметры
-        * [ ] DJI o3 Air Unit
-            * [x] совместимость
-            * [ ] ключевые параметры
-            * [ ] o3 Air Unit камера
-        * [ ] DJI o4 Air Unit
-            * [x] совместимость
-            * [x] ключевые параметры
-            * [ ] o4 Air Unit камера
-        * [ ] DJI o4 Air Unit Pro
-            * [x] совместимость
-            * [ ] ключевые параметры
-            * [ ] o4 Air Unit Pro камера
+    - [ ] OSD
+        
+    - [ ] Влагозащита
+        * [x] Vista
+        * [x] o3 Air Unit
+        * [x] o4 Air Unit
+        * [ ] o4 Air Unit Pro
+    - [ ] Базовая настройка
+        * [ ] OSD
+            * [x] Betaflight
+            * [x] Kiss Ultra
+            * [ ] INAV
+                * [ ] кастомные шрифты для v2+o3
+        * [ ] Управление
     - [ ] камеры:
         * [ ] камеры для первого поколения передатчиков
     - [ ] контроллеры:
@@ -103,7 +73,6 @@ description: Добро пожаловвть!
         * [ ] 30/60 Mbps
     - [ ] FAQ: 
         * [x] FCC hack
-        * [x] влагозащита
         * [ ] DJI Fly
             * [x] Android
             * [ ] iOS
