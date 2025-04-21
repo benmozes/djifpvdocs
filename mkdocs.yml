@@ -198,3 +198,5 @@ plugins:
       archive: false
       categories_toc: true
 
+extra_javascript:
+  - js/ga-init.js
