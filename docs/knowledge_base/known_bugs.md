@@ -12,7 +12,7 @@ glightbox: true
 
 ## :material-bug-check:{ .green_check }  низкий битрейт o4/o4 pro
 
-у части пользователей в авто режиме каналов юниты выдают не больше 15/30Mbps
+в авто режиме каналов o4 юниты выдают не больше 15/30Mbps
 
 !!! success "fixed"
     прошейте o4 Air Unit/o4 Air Unit Pro на версию v01.00.0300 или выше
