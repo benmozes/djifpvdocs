@@ -77,7 +77,7 @@ description: Актуальная прошивка, спеки, совмести
     14. **Стабилизация изображения**
         - RockSteady 3.0+[^3]
         - Stabilization function off (supports Gyroflow)
-    15. **Диапазон питания Air Unit Pro**
+    15. **Диапазон питания o4 Air Unit Pro**
         - 7.4-26.4 V
     16. **Поддерживаемые карты памяти**
         - microSD (до 512 GB)
