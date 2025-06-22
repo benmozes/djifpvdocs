@@ -18,7 +18,7 @@ description: Актуальная прошивка, спеки, совмести
 - 2025-01-09
 
 ### актуальная прошивка
-- v01.00.02.00
+- v01.00.0300
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
 
 ### ключевые параметры
