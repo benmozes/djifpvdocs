@@ -94,6 +94,7 @@ nav:
       - 'o4 Air unit': knowledge_base/coating/coating_o4.md
     - 'Таймлайн': knowledge_base/timeline.md
     - 'DJI Fly': knowledge_base/dji_fly.md
+    - 'RTFM': knowledge_base/manuals.md
   - Очки:
     - goggles/index.md
     - 'DJI FPV Goggles': goggles/v1.md
