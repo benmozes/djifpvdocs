@@ -1,5 +1,5 @@
 ---
-icon: material/file-document-outline
+icon: material/file-document-multiple-outline
 title: Мануалы
 description: PDF документация DJI залитая на зеркало для удобного доступа
 glightbox: true
