@@ -11,11 +11,10 @@ glightbox: true
     |:-----------------------------|------------------------:|----------------------:|-------------------------:|-----------------:|------------------:|
     |     FPV Air Unit/Caddx Vista |                 13.4км |               13.4км |                    30км |              ❌ |               ❌ |
     |     o3 Air Unit              |                    ❌ |               23.4км |                  23.4км |           <span style="background-color: #ffeeba; padding: 0.2em 0.4em; border-radius: 4px; color: #212529;">25.5км</span>[^1] |               ❌ |
-    |     o4 Air Unit              |                    ❌ |                  ❌ |                  25.5км |           <span style="background-color: #ffeeba; padding: 0.2em 0.4em; border-radius: 4px; color: #212529;">28.3км</span>[^2] |               ❌ |
+    |     o4 Air Unit              |                    ❌ |                  ❌ |                  25.5км |           25.5км |            25.5км |
     |     o4 Air Unit Pro          |                    ❌ |                  ❌ |                  25.5км |           28.3км |            28.3км |
 
 [^1]: по Goggles 3 + o3 Air Unit информация не подтверждена
-[^2]: по Goggles o3 + o4 Air Unit информация не подтверждена
 
 ## что с чем совместимо?
 !!! tip ""
