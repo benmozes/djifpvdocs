@@ -10,6 +10,9 @@ description: Добро пожаловвть!
 
 <div class="grid" markdown>
 
+:material-frequently-asked-questions: [__F.A.Q.__](/knowledge_base/faq/) 
+{ .card }
+
 :material-relation-only-one-to-only-one: [__Совместимость__](/knowledge_base/compatibility/)
 { .card }
 
@@ -18,7 +21,6 @@ description: Добро пожаловвть!
 
 :simple-fcc: [__FCC hack__](/knowledge_base/fcc/)
 { .card }
-
 
 :fontawesome-solid-vr-cardboard: [__Очки__](/goggles/)
 { .card }
@@ -34,8 +36,6 @@ description: Добро пожаловвть!
 
 :material-newspaper: [__Новости__](/blog/)
 { .card }
-
-> :material-frequently-asked-questions: __F.A.Q.__ 
 
 </div>
 
