@@ -1,0 +1,70 @@
+---
+icon: material/frequently-asked-questions
+title: FAQ
+description: часто задаваемые вопросы
+glightbox: true
+---
+
+## Какие лимиты дальности?
+!!! tip ""
+    | Air Unit                     |             FPV Goggles |       FPV Goggles V2 |       Goggles 2/Integra |       Goggles 3 |       Goggles N3 |
+    |:-----------------------------|------------------------:|----------------------:|-------------------------:|-----------------:|------------------:|
+    |     FPV Air Unit/Caddx Vista |                 13.4км |               13.4км |                    30км |              ❌ |               ❌ |
+    |     o3 Air Unit              |                    ❌ |               23.4км |                  23.4км |           <span style="background-color: #ffeeba; padding: 0.2em 0.4em; border-radius: 4px; color: #212529;">25.5км</span>[^1] |               ❌ |
+    |     o4 Air Unit              |                    ❌ |                  ❌ |                  25.5км |           <span style="background-color: #ffeeba; padding: 0.2em 0.4em; border-radius: 4px; color: #212529;">28.3км</span>[^2] |               ❌ |
+    |     o4 Air Unit Pro          |                    ❌ |                  ❌ |                  25.5км |           28.3км |            28.3км |
+
+[^1]: по Goggles 3 + o3 Air Unit информация не подтверждена
+[^2]: по Goggles o3 + o4 Air Unit информация не подтверждена
+
+## что с чем совместимо?
+!!! tip ""
+    см. [общая таблица совместимости](compatibility.md#общая-таблица-совместимости)
+
+## какой ассистент нужен?
+!!! tip ""
+    см. [DJI Assistant 2](dji_assistant.md)
+
+    !!! note "если у тебя первое поколение железа:"
+
+        * DJI Air Unit
+        * Caddx Vista
+        * DJI FPV Goggles
+        * DJI FPV Goggles V2
+
+        скачивай [DJI Assistant 2 (DJI FPV series)](dji_assistant.md#dji-assistant-2-dji-fpv-series)
+
+    !!! note "если у тебя второе и выше поколение железа:"
+
+        * DJI o3 Air Unit
+        * DJI o4 Air Unit
+        * DJI o4 Air Unit Pro
+        * DJI Goggles 2
+        * DJI Goggles Integra
+        * DJI Goggles 3
+        * DJI Goggles N3
+
+        скачивай [DJI Assistant 2 (Consumer Drone Series)](dji_assistant.md#dji-assistant-2-consumer-drone-series)
+
+## можно ли заменить антенны на очках?
+!!! tip ""
+    | очки                   | возможность замены антенн   | разъём   |
+    |:-----------------------|------------------------------:|--------------:|
+    | DJI FPV Goggles        | да, все четыре                | RP-SMA        |
+    | DJI FPV Goggles V2     | да, все четыре                | RP-SMA        |
+    | DJI Goggles 2          | да, две внешние               | MCX           |
+    | DJI Goggles Integra    | ❌                            | ❌            |
+    | DJI Goggles 3          | ❌                            | ❌            |
+    | DJI Goggles N3         | ❌                            | ❌            |
+
+## как сделать хак?
+!!! tip ""
+    см. [FCC hack](fcc.md#fcc-hack)
+
+## как настроить OSD?
+!!! tip ""
+    см. [Настройка OSD](osd.md#настройка-osd)
+
+## можно ли заменить coaxial шлейфы o4 и o4 pro?
+!!! tip ""
+    можно, они одинаковые по распиновке

@@ -82,6 +82,7 @@ nav:
   - Home: index.md
   - База знаний: 
     - knowledge_base/index.md
+    - 'F.A.Q.': knowledge_base/faq.md
     - 'Совместимость': knowledge_base/compatibility.md
     - 'DJI Assistant 2': knowledge_base/dji_assistant.md
     - 'Настройка OSD': knowledge_base/osd.md
