@@ -42,25 +42,3 @@
   -webkit-mask-image: var(--md-admonition-icon--discord);
           mask-image: var(--md-admonition-icon--discord);
 }
-
-
-.mdx-hero {
-  padding: 6rem 1rem;
-  background: linear-gradient(to bottom, #000000, #111111);
-  color: white;
-  text-align: center;
-}
-
-.mdx-hero__content h1 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
-.mdx-hero__content p {
-  font-size: 1.2rem;
-  margin-bottom: 1.5rem;
-}
-
-.md-button {
-  margin: 0 0.5rem;
-}

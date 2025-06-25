@@ -468,35 +468,21 @@
     }
     /* невероятный костыль для social карточек */
     .mdx-hero {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      display: block;
-      background: none !important;
-      transition: transform .4s cubic-bezier(.1,.7,.1,1), opacity .25s;
+        bottom: 3.2rem;
+        display: block;
+        position: absolute;
+        transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
+        width: 100%;
     }
 
     .md-typeset h1 {
       color: #333333 !important;
     }
 
-    .mdx-hero__content h1 {
-      font-size: 1.75rem !important;
-      line-height: 1.2;
-    }
-
-    .mdx-hero__content p {
-      font-size: 1rem !important;
-      line-height: 1.4;
-    }
 
     .mdx-hero__content {
-      margin: 0;
-      padding-left: 2rem; /* можно варьировать по вкусу */
-      width: 100%;
-      text-align: left !important;
-    }
+        width: 100%;
+      }
 
     .md-typeset p {
         color: #333333 !important;
@@ -507,9 +493,6 @@
         max-width: 212px !important; /* Ограничение по ширине */
         display: inline-block;
         text-align: center;
-        margin-left: 0 !important;
-        margin-top: 0 !important;
-
     }
 
     @media screen and (min-width:76.25em) {
@@ -518,7 +501,7 @@
         }
 
         .mdx-hero__content {
-        width: 100%;
+        width: 50%;
         }
     }
     .md-content {
@@ -1726,20 +1709,29 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
-<section class="mdx-hero">
-  <div class="mdx-hero__content">
-    <h1>Для тех, кому недостаточно готовых решений от DJI</h1>
-    <p>Здесь хранится базовая информация и накопленный опыт сообщества о цифровой FPV системе от DJI для DIY носителей.</p>
-    <p style="opacity: 80%; font-size: 70%; padding-right: 5%;">информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых дронах от DJI нет и не планируется.</p>
-    <a href="knowledge_base/" title="База знаний" class="md-button md-button--primary">
-      База знаний
-    </a>
-    <a href="https://t.me/djifpvru" title="DJI FPV в Telegram" class="md-button">
-      Чат в telegram
-    </a>
-    </p>
-  </div>
-</section>
+<main class="md-main">
+    <div class="md-content">
+      <article class="md-typeset">
+        <section class="mdx-container">
+            <div class="md-grid md-typeset">
+              <div class="mdx-hero">
+                <div class="mdx-hero__content">
+                  <h1>Для тех, кому недостаточно готовых решений от DJI</h1>
+                  <p>Здесь хранится базовая информация и накопленный опыт сообщества о цифровой FPV системе от DJI для DIY носителей.</p>
+                  <p style="opacity: 80%; font-size: 80%; padding-right: 5%;">Информации об DJI FPV Drone, Avata, Avata 2, Neo, Flip и прочих готовых дронах от DJI нет и не планируется.</p>
+                  <a href="knowledge_base/" title="База знаний" class="md-button md-button--primary">
+                    База знаний
+                  </a>
+                  <a href="https://t.me/djifpvru" title="DJI FPV в Telegram" class="md-button">
+                    Чат в telegram
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+      </article>
+    </div>
+  </main>
 
               </article>
             </div>
