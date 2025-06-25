@@ -468,11 +468,13 @@
     }
     /* невероятный костыль для social карточек */
     .mdx-hero {
-        bottom: 3.2rem;
-        display: block;
-        position: absolute;
-        transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
-        width: 100%
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      display: block;
+      background: none !important;
+      transition: transform .4s cubic-bezier(.1,.7,.1,1), opacity .25s;
     }
 
     .md-typeset h1 {
@@ -502,7 +504,7 @@
         }
 
         .mdx-hero__content {
-          width: 75%;
+        width: 100%;
         }
     }
     .md-content {
