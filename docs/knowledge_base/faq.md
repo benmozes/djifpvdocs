@@ -5,7 +5,7 @@ description: часто задаваемые вопросы
 glightbox: true
 ---
 
-## Какие лимиты дальности?
+## какие лимиты дальности?
 !!! tip ""
     | Air Unit                     |             FPV Goggles |       FPV Goggles V2 |       Goggles 2/Integra |       Goggles 3 |       Goggles N3 |
     |:-----------------------------|------------------------:|----------------------:|-------------------------:|-----------------:|------------------:|
@@ -65,5 +65,28 @@ glightbox: true
     см. [Настройка OSD](osd.md#настройка-osd)
 
 ## можно ли заменить coaxial шлейфы o4 и o4 pro?
+!!! success "можно"
+    они одинаковые по распиновке
+
+## можно ли записывать OSD на видео?
+!!! failure "нельзя - на старом поколении очков:"
+
+    * FPV Goggles (V1)
+    * FPV Goggles V2
+
+!!! success "можно - на новом поколении очков:"
+
+    * Goggles 2
+    * Goggles Integra
+    * Goggles 3
+    * Goggles N3
+    
+    === "RU"
+        настройки → камера → расширенные настройки камеры → запись обзора камеры :material-toggle-switch-outline:
+    === "EN"
+        settings → camera → advanced camera settings → camera view record :material-toggle-switch-outline:
+
+## какие настройки нужны для стабилизации видео в Gyroflow?
 !!! tip ""
-    можно, они одинаковые по распиновке
+    * отключить внутреннюю стабилизацию RockSteady (EIS)
+    * установить угол камеры широкий/wide
