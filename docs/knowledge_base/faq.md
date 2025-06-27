@@ -56,6 +56,21 @@ glightbox: true
     | DJI Goggles 3          | ❌                            | ❌            |
     | DJI Goggles N3         | ❌                            | ❌            |
 
+## какой разъём антенны на юните?
+!!! info "MMCX"
+    * DJI FPV Air Unit
+!!! info "U.FL"
+    * Caddx Vista
+    * o3 Air Unit
+    * o4 Air Unit
+    * o4 Air Unit Pro
+
+    !!! note ""
+        он же I-PEX MHF I, IPEX1, IPX1, MHF, MHF I, MHF1, AMC, MCRF, GS, TXR, UM, UMC, UMCX, ultra-miniature coaxial
+## какой разъем антенны на очках
+!!! tip ""
+    см.[можно ли заменить антенны на очках?](#можно-ли-заменить-антенны-на-очках)
+
 ## как сделать хак?
 !!! tip ""
     см. [FCC hack](fcc.md#fcc-hack)
