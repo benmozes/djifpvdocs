@@ -75,9 +75,7 @@ extra:
       вашего браузера. Однако вы можете запретить обработку некоторых типов файлов cookie в настройках
       вашего браузера либо на странице «Уведомление об
       использовании файлов cookie».
-extra_css:
-  - stylesheets/extra.css
-  - stylesheets/neoteroi-mkdocs.css
+
 nav:
   - Home: index.md
   - База знаний: 
@@ -93,6 +91,7 @@ nav:
       - 'Caddx Vista': knowledge_base/coating/coating_vista.md
       - 'o3 Air unit': knowledge_base/coating/coating_o3.md
       - 'o4 Air unit': knowledge_base/coating/coating_o4.md
+      - 'o4 Air unit Pro': knowledge_base/coating/coating_o4pro.md
     - 'Таймлайн': knowledge_base/timeline.md
     - 'DJI Fly': knowledge_base/dji_fly.md
     - 'RTFM': knowledge_base/manuals.md
@@ -165,6 +164,19 @@ plugins:
   - search
   - glightbox:
       manual: true
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_themed: false
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: false
@@ -201,5 +213,13 @@ plugins:
       archive: false
       categories_toc: true
 
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/neoteroi-mkdocs.css
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+  - stylesheets/gallery.css
+
 extra_javascript:
   - js/ga-init.js
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+  - js/gallery-init.js
