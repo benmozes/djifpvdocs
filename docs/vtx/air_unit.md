@@ -23,6 +23,7 @@ description: Актуальная прошивка, спеки, совмести
 * _для работы с очками Goggles 2 и Integra_
     * v01.01.00.00
     * рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-dji-fpv-series" target="_blank">DJI Assistant 2 (DJI FPV Series):octicons-link-external-16:</a>
+        * [зеркало](https://www.djifpv.ru/knowledge_base/dji_assistant/#dji-assistant-2-dji-fpv-series) :material-file-download-outline:
 
 ### ключевые параметры
 ??? abstract "список параметров"
