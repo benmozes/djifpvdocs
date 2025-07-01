@@ -15,7 +15,7 @@ description: Как разблокировать полную мощность �
 * :material-roman-numeral-2:/:material-roman-numeral-3: второе и третье поколение:
     - Air Unit + Goggles 2/Integra
     - Caddx Vista + Goggles 2/Integra
-    - o3 Air Unit + Goggles 2/Integra/Goggles 3
+    - o3 Air Unit + DJI FPV Goggles V2/Goggles 2/Integra/Goggles 3
     - o4 Air Unit + Goggles 2/Integra/Goggles 3/Goggles N3
     - o4 Air Unit Pro + Goggles 2/Integra/Goggles 3/Goggles N3
 
