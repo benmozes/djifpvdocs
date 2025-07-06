@@ -6,6 +6,7 @@ tags:
   - vtx
 title: DJI FPV Air Unit
 description: Актуальная прошивка, спеки, совместимость
+glightbox: true
 ---
 # DJI FPV Air Unit
 <figure markdown="span">
@@ -71,6 +72,15 @@ description: Актуальная прошивка, спеки, совмести
     * :material-link-off:{ .red_cross } FPV Remote Controller 3
 * модификация прошивки
     * :material-link:{ .green_check } WTFOS
+
+### схема подключения
+
+распиновкa DJI FPV Air Unit
+
+<figure markdown="span">
+![Image title](./images/og_au_wiring_light.png){ width="100%" .on-glb }
+<figcaption>FPV Air Unit wiring</figcaption>
+</figure>
 
 [^1]: только при работе с камерами без ограничений
 [^2]: при работе со сторонними камерами типа Caddx Polar или Runcam Wasp

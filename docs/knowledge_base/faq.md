@@ -113,3 +113,32 @@ glightbox: true
     * файлы .LRF автоматически создаются при записи видео и используются для предварительного просмотра
     * опции включения/отключения нет
     * так же в настоящий момент нет четкого понимания в каком случае они пишутся, а в каком нет
+
+## как подключить юнит к полетному контроллеру?
+!!! tip ""
+    * согласно схеме подключения (wiring diagram) для вашего полетного контроллера
+    === "FPV Air Unit"
+        <figure markdown="span">
+        ![Image title](./images/og_au_wiring_light.png){ width="100%" .on-glb }
+        <figcaption>FPV Air Unit wiring</figcaption>
+        </figure>
+    === "Caddx Vista"
+        <figure markdown="span">
+        ![Image title](./images/caddx_vista_wiring_light.png){ width="100%" .on-glb }
+        <figcaption>Caddx Vista wiring</figcaption>
+        </figure>
+    === "o3 Air Unit"
+        <figure markdown="span">
+        ![Image title](./images/o3_wiring_light.png){ width="100%" .on-glb }
+        <figcaption>o3 Air Unit wiring</figcaption>
+        </figure>
+    === "o4 Air Unit"
+        <figure markdown="span">
+        ![Image title](./images/o4lite_wiring_light.png){ width="100%" .on-glb }
+        <figcaption>o4 Air Unit wiring</figcaption>
+        </figure>
+    === "o4 Pro Air Unit"
+        <figure markdown="span">
+        ![Image title](./images/o4pro_wiring_light.png){ width="100%" .on-glb }
+        <figcaption>o4 Pro Air Unit wiring</figcaption>
+        </figure>

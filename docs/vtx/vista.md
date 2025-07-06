@@ -78,6 +78,14 @@ description: Актуальная прошивка, спеки, совмести
     * :material-link-off:{ .red_cross } FPV Remote Controller 3
 * модификация прошивки
     * :material-link:{ .green_check } WTFOS
+### схема подключения
+
+распиновкa Caddx Vista
+
+<figure markdown="span">
+![Image title](./images/caddx_vista_wiring_light.png){ width="100%" .on-glb }
+<figcaption>Caddx Vista wiring</figcaption>
+</figure>
 
 [^1]: на прошивке v01.00.06.08
 [^2]: на прошивке v01.00.06.08

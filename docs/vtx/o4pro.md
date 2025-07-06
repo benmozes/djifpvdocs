@@ -107,6 +107,15 @@ description: Актуальная прошивка, спеки, совмести
 * модификация прошивки
     * :material-link-off:{ .red_cross } WTFOS
 
+### схема подключения
+
+распиновкa DJI o4 Pro Air Unit 
+
+<figure markdown="span">
+![Image title](./images/o4pro_wiring_light.png){ width="100%" .on-glb }
+<figcaption>o4 Pro Air Unit wiring</figcaption>
+</figure>
+
 [^1]: не для всех регионов
 [^2]: EIRP это мощность передатчика за антенной, по методикам определения FCC
 [^3]: При включенной стабилизации RockSteady доступен только нормальный (Standard) угол камеры
