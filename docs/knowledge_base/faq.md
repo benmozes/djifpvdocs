@@ -142,3 +142,21 @@ glightbox: true
         ![Image title](./images/o4pro_wiring_light.png){ width="100%" .on-glb }
         <figcaption>o4 Pro Air Unit wiring</figcaption>
         </figure>
+
+## как активировать юнит?
+!!! tip ""
+    - установить нужный DJI Assistant 2
+        - см. [какой ассистент нужен](dji_assistant.md)
+    - возможность активировать появистя согласно особенностям конкретного юнита:
+        - DJI FPV Air Unit
+            - :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+        - Caddx Vista
+            - :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+        - DJI o3 Air Unit
+            - :material-usb-c-port:{ .green_check } для прошивки и активации достаточно питания от USB
+        - DJI o4 Air Unit
+            - :material-usb-c-port:{ .green_check } для прошивки достаточно питания от USB
+            - :material-battery-plus-outline:{ .red_cross } для активации необходимо внешнее питание
+        - DJI o4 Pro Air Unit
+            - :material-usb-c-port:{ .green_check } для прошивки достаточно питания от USB
+            - :material-battery-plus-outline:{ .red_cross } для активации необходимо внешнее питание
