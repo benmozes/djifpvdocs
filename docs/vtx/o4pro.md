@@ -27,6 +27,10 @@ description: Актуальная прошивка, спеки, совмести
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
     - [зеркало](https://www.djifpv.ru/knowledge_base/dji_assistant/#dji-assistant-2-consumer-drone-series) :material-file-download-outline:
 
+### официальные инструкции от  DJI
+
+см. [туториалы](https://www.djifpv.ru/knowledge_base/dji_tutorials/)
+
 ### ключевые параметры
 ??? abstract "список параметров"
     1. **Вес**
