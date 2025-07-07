@@ -18,6 +18,11 @@ description: Актуальная прошивка, спеки, совмести
 - 2025-01-09
 
 ### актуальная прошивка
+!!! danger ""
+    :material-battery-plus-outline:{ .red_cross } для активации и калибровки камеры, в случае замены, необходимо внешнее питание
+!!! success ""
+    :material-usb-c-port:{ .green_check } для прошивки достаточно питания от USB
+
 - v01.00.0300
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
     - [зеркало](https://www.djifpv.ru/knowledge_base/dji_assistant/#dji-assistant-2-consumer-drone-series) :material-file-download-outline:

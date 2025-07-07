@@ -19,6 +19,9 @@ glightbox: true
 - 2019-07-31
 
 ### актуальная прошивка
+!!! danger ""
+    :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+
 * _для работы с очками FPV Goggles V1 и V2_
     * v01.00.06.08
 * _для работы с очками Goggles 2 и Integra_
