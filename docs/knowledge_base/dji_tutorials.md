@@ -1,5 +1,5 @@
 ---
-icon: material/youtube
+icon: material/message-video
 title: Инструкции
 description: официальные инструкции DJI
 glightbox: true
