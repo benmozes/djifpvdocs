@@ -58,13 +58,29 @@ glightbox: true
     - Настройки :material-arrow-right: Экран :material-arrow-right: Режим холста :material-arrow-right: HD
     <figure markdown="span">
     ![Image title](./images/goggles_hd_ru_dark.png){ width="100%" .on-glb }
-    <figcaption>выбор опции в очках</figcaption>
+    <figcaption>выбор опции HD в очках</figcaption>
     </figure>
 === "язык интерфейса: english"
     - Settings :material-arrow-right: Display :material-arrow-right: Canvas Mode :material-arrow-right: HD
     <figure markdown="span">
     ![Image title](./images/goggles_hd_en_dark.png){ width="100%" .on-glb }
-    <figcaption>выбор опции в очках</figcaption>
+    <figcaption>выбор опции HD в очках</figcaption>
+    </figure>
+а так же выбрать формат работы OSD:
+
+* Betaflight (для работы с Betaflight и KISS Ultra)
+* INAV
+=== "язык интерфейса: русский"
+    - Настройки :material-arrow-right: Экран :material-arrow-right: Полетный контроллер :material-arrow-right: Betaflight
+    <figure markdown="span">
+    ![Image title](./images/goggles_fc_ru_dark.png){ width="100%" .on-glb }
+    <figcaption>выбор опции ПК в очках</figcaption>
+    </figure>
+=== "язык интерфейса: english"
+    - Settings :material-arrow-right: Display :material-arrow-right: Flight controller :material-arrow-right: Betaflight
+    <figure markdown="span">
+    ![Image title](./images/goggles_fc_en_dark.png){ width="100%" .on-glb }
+    <figcaption>выбор опции ПК в очках</figcaption>
     </figure>
 
 ## настройки в зависимости от софта полетного контроллера:
@@ -72,7 +88,7 @@ glightbox: true
 ### Betaflight
 
 1. #### Ports.MSP 
-    во вкладке портов ниобходимо активировать MSP на том порту, куда подключены RX и TX видеопередатчика
+    во вкладке портов необходимо активировать MSP на том порту, куда подключены RX и TX видеопередатчика
     <figure markdown="span">
     ![Image title](./images/ports_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/ports_dark.webp#only-dark){ width="100%" .on-glb }
@@ -142,13 +158,61 @@ glightbox: true
         ``` title='Betaflight CLI'
         save
         ```
-3. #### OSD
+3. #### OSD.Video Format
 
-Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: установите опцию HD
+    Betaflight конфигуратор :material-arrow-right: OSD :material-arrow-right: Video Format :material-arrow-right: установите опцию HD
     <figure markdown="span">
     ![Image title](./images/osd_light.webp#only-light){ width="100%" .on-glb }
     ![Image title](./images/osd_dark.webp#only-dark){ width="100%" .on-glb }
     <figcaption>HD OSD</figcaption>
+    </figure>
+
+### INAV
+
+!!! warning "важно"
+    проверяйте прошивку очков на соответствие версии
+
+    | **очки**        | **версия прошивки** |
+    |:----------------|--------------------:|
+    | Goggles 2       | v01.12.0000 или выше|
+    | Goggles integra | v01.08.0000 или выше|
+    | Goggles 3       | v01.00.0800 или выше|
+    | Goggles N3      | v01.00.0400 или выше|
+
+1. #### Настройка очков 
+    === "язык интерфейса: русский"
+        - Настройки :material-arrow-right: Экран :material-arrow-right: Полетный контроллер :material-arrow-right: INAV
+        <figure markdown="span">
+        ![Image title](./images/goggles_inav_ru.png){ width="100%" .on-glb }
+        <figcaption>выбор опции ПК в очках</figcaption>
+        </figure>
+    === "язык интерфейса: english"
+        - Settings :material-arrow-right: Display :material-arrow-right: Flight controller :material-arrow-right: INAV
+        <figure markdown="span">
+        ![Image title](./images/goggles_inav_en.png){ width="100%" .on-glb }
+        <figcaption>выбор опции ПК в очках</figcaption>
+        </figure>
+
+2. #### Ports.Peripherials 
+    на нужном UART выбрать в колонке периферия опцию MSP DisplayPort
+    <figure markdown="span">
+    ![Image title](./images/inav_ports_full.png){ width="100%" .on-glb }
+    <figcaption>INAV peripherials options list</figcaption>
+    </figure>
+    <figure markdown="span">
+    ![Image title](./images/inav_ports_short.png){ width="100%" .on-glb }
+    <figcaption>INAV ports and peripherials configuration</figcaption>
+    </figure>
+
+3. #### OSD.Video Format
+    INAV конфигуратор :material-arrow-right: OSD :material-arrow-right: Video Format :material-arrow-right: установите опцию DJI_NATIVE
+    <figure markdown="span">
+    ![Image title](./images/inav_osd_short.png){ width="100%" .on-glb }
+    <figcaption>INAV OSD DJI_NATIVE</figcaption>
+    </figure>    
+    <figure markdown="span">
+    ![Image title](./images/inav_osd_full.png){ width="100%" .on-glb }
+    <figcaption>INAV OSD options list</figcaption>
     </figure>
 
 ### KISS Ultra
