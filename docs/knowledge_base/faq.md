@@ -95,12 +95,14 @@ glightbox: true
     * Goggles Integra
     * Goggles 3
     * Goggles N3
-    
+
+    !!! warning ""
+        в Goggles 2 + Goggles Integra настройка отсутствует при работе с DJI FPV Air Unit и Caddx Vista
+        если вы хотите включить или отключить запись OSD на DVR очков -  переключитесь в режим о3, проведите манипуляции с настройками и это так же применится на работу с первым поколением юнитов
+        
     === "RU"
         настройки → камера → расширенные настройки камеры → запись обзора камеры :material-toggle-switch-outline:
-        !!! warning ""
-            в Goggles 2 + Goggles Integra настройка отсутствует при работе с DJI FPV Air Unit и Caddx Vista
-            если вы хотите включить или отключить запись OSD на DVR очков -  переключитесь в режим о3, проведите манипуляции с настройками и это так же применится на работу с первым поколением юнитов
+
     === "EN"
         settings → camera → advanced camera settings → camera view record :material-toggle-switch-outline:
 
