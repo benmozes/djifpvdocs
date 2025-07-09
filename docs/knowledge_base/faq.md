@@ -153,9 +153,9 @@ glightbox: true
         - см. [какой ассистент нужен](dji_assistant.md)
     - возможность активировать появистя согласно особенностям конкретного юнита:
         - DJI FPV Air Unit
-            - :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+            - :material-battery-plus-outline:{ .red_cross } для прошивки и активации необходимо внешнее питание
         - Caddx Vista
-            - :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+            - :material-battery-plus-outline:{ .red_cross } для прошивки и активации необходимо внешнее питание
         - DJI o3 Air Unit
             - :material-usb-c-port:{ .green_check } для прошивки и активации достаточно питания от USB
         - DJI o4 Air Unit

@@ -20,7 +20,7 @@ glightbox: true
 
 ### актуальная прошивка
 !!! danger ""
-    :material-battery-plus-outline:{ .red_cross } необходимо внешнее питание для прошивки и активации
+    :material-battery-plus-outline:{ .red_cross } для прошивки и активации необходимо внешнее питание 
 
 * _для работы с очками FPV Goggles V1 и V2_
     * v01.00.06.08
