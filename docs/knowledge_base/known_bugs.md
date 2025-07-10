@@ -10,6 +10,23 @@ glightbox: true
 * :material-bug-play-outline:{ .red_cross } баг не исправлен
 * :material-bug-check:{ .green_check } баг исправлен
 
+## :material-bug-check:{ .green_check }  Goggles 3 и Goggles N3 мешают ELRS 2.4
+
+!!! note ""
+    начиная с Goggles 3 и Goggles N3 DJI перевели протокол управления юнитами из связки 
+    !!! quote ""
+         FPV Remote Controller :material-arrow-left-right: Air Unit 
+    в связку 
+    !!! quote ""
+        FPV Remote Controller :material-arrow-left-right: Goggles :material-arrow-left-right: Air Unit
+    
+    очки и контроллер общаются между собой по <a href="https://fpvwiki.co.uk/dji-fpv-remote-v3" target="_blank">2.4 GFSK</a> протоколу, поэтому, в случае отсутствия FRV Remote Controller, очки добавляют шум в радиоэфир
+
+    ELRS 2.4 до версии 3.5.3 включительно мог <a href="https://github.com/ExpressLRS/ExpressLRS/pull/3154" target="_blank">принять этот шум за свой сигнал</a>, что приводило к драматическому снижению LQ или даже RXLoss
+
+!!! success "fixed"
+    исправлено в <a href="https://github.com/ExpressLRS/ExpressLRS/releases/tag/3.5.4" target="_blank">ExpressLRS V3.5.4</a>
+
 ## :material-bug-check:{ .green_check }  низкий битрейт o4/o4 pro
 
 в авто режиме каналов o4 юниты выдают не больше 15/30Mbps

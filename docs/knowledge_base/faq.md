@@ -162,3 +162,7 @@ glightbox: true
             - :material-battery-plus-outline:{ .red_cross } для активации необходимо внешнее питание
         - DJI o4 Pro Air Unit
             - :material-battery-plus-outline:{ .red_cross } для активации необходимо внешнее питание
+
+## почему падает связь ELRS 2.4 при работе с Goggles 3  или Goggles N3?
+!!! tip ""
+    см. [Goggles 3 и Goggles N3 мешают ELRS 2.4](known_bugs.md##goggles-3-и-goggles-n3-мешают-elrs-24)
