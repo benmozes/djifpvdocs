@@ -15,12 +15,13 @@ glightbox: true
 !!! note ""
     начиная с Goggles 3 и Goggles N3 DJI перевели протокол управления юнитами из связки 
     !!! quote ""
-         FPV Remote Controller :material-arrow-left-right: Air Unit 
+        FPV Remote Controller :material-arrow-left-right: Air Unit</br>
+        FPV Remote Controller :material-arrow-left-right: Goggles
     в связку 
     !!! quote ""
         FPV Remote Controller :material-arrow-left-right: Goggles :material-arrow-left-right: Air Unit
     
-    очки и контроллер общаются между собой по <a href="https://fpvwiki.co.uk/dji-fpv-remote-v3" target="_blank">2.4 GFSK</a> протоколу, поэтому, в случае отсутствия FRV Remote Controller, очки добавляют шум в радиоэфир
+    это позволило убрать кучу железа из Remote Controller и оставить только чипы связи для <a href="https://fpvwiki.co.uk/dji-fpv-remote-v3" target="_blank">2.4 GFSK</a>, поэтому, в случае отсутствия FRV Remote Controller, очки добавляют шум в 2.4 радиоэфир 
 
     ELRS 2.4 до версии 3.5.3 включительно мог <a href="https://github.com/ExpressLRS/ExpressLRS/pull/3154" target="_blank">принять этот шум за свой сигнал</a>, что приводило к драматическому снижению LQ или даже RXLoss
 
