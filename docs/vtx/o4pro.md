@@ -23,7 +23,7 @@ description: Актуальная прошивка, спеки, совмести
 !!! success ""
     :material-usb-c-port:{ .green_check } для прошивки достаточно питания от USB
 !!! warning ""
-    :material-microsoft-windows: если есть проблемы с активацией юнита проверьте что у вашей учетной записи есть права администратора
+    :material-microsoft-windows: если есть проблемы с активацией юнита, проверьте что у вашей учетной записи есть права администратора
 
 - v01.00.0300
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
