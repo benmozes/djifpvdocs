@@ -22,6 +22,8 @@ description: приложение для активации и прошивки
 
 ### зеркало для скачивания
 * :material-microsoft-windows: V2.1.36 <a href="https://djifpvdocs.b-cdn.net/DJI%20Assistant%202(Consumer%20Drones%20Series)%202.1.36.exe.zip" target="_blank">скачать файл</a>
+!!! warning ""
+    :material-microsoft-windows: если есть проблемы с активацией юнита проверьте что у вашей учетной записи есть права администратора
 * :material-apple: V2.1.36 <a href="https://djifpvdocs.b-cdn.net/DJI%20Assistant%202(Consumer%20Drones%20Series)%202.1.36.pkg" target="_blank">скачать файл</a>
 
 ### список совместимых девайсов
