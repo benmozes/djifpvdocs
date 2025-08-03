@@ -29,9 +29,9 @@ description: Актуальная прошивка, спеки, совмести
     :material-battery-plus-outline:{ .red_cross } для прошивки и активации необходимо внешнее питание
 
 * _для работы с очками FPV Goggles V1 и V2_
-    * v01.00.06.08
+    * v01.00.0608
 * _для работы с очками Goggles 2 и Integra_
-    * v01.01.00.00
+    * v01.01.0000
     * рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-dji-fpv-series" target="_blank">DJI Assistant 2 (DJI FPV Series):octicons-link-external-16:</a>
         * [зеркало](https://www.djifpv.ru/knowledge_base/dji_assistant/#dji-assistant-2-dji-fpv-series) :material-file-download-outline:
 

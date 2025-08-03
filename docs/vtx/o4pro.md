@@ -25,7 +25,7 @@ description: Актуальная прошивка, спеки, совмести
 !!! warning ""
     :material-microsoft-windows: если есть проблемы с активацией юнита, проверьте что у вашей учетной записи есть права администратора
 
-- v01.00.0300
+- v01.00.03.00
 - рекомендуемый софт для прошивки - <a href="https://www.dji.com/downloads/softwares/dji-assistant-2-consumer-drones-series" target="_blank">DJI Assistant 2 (Consumer Drones Series):octicons-link-external-16:</a>
     - [зеркало](https://www.djifpv.ru/knowledge_base/dji_assistant/#dji-assistant-2-consumer-drone-series) :material-file-download-outline:
 
