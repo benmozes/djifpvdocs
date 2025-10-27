@@ -8,8 +8,8 @@ description: Мобильное приложение для стриминга �
 # DJI Fly
 
 ## Android
-* :flag_ru::material-android: V 1.18.2 <a href="https://storage.yandexcloud.net/djifpv.ru/dji_fly_1.8.2.zip" target="_blank">скачать файл</a>
-* :globe_with_meridians::material-android: V 1.18.2 <a href="https://djifpvdocs.b-cdn.net/dji_fly_1.8.2.zip" target="_blank">скачать файл</a>
+* :material-android: V 1.18.2 <a href="https://storage.yandexcloud.net/djifpv.ru/dji_fly_1.8.2.zip" target="_blank">скачать файл</a>:flag_ru:
+* :material-android: V 1.18.2 <a href="https://djifpvdocs.b-cdn.net/dji_fly_1.8.2.zip" target="_blank">скачать файл</a>:globe_with_meridians:
 
 ???+ tip "требования"
     Требуется Android 7.0 или более поздняя версия. Рекомендуются флагманские телефоны, выпущенные после 2019 года.
