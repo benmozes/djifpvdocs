@@ -26,3 +26,7 @@ glightbox: true
 ## замена камеры и антенн o4 Air Unit Pro
 
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://runtime.video.cloud.yandex.net/player/video/vplvyvz44hqklq2qs27c?autoplay=0&mute=1" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+## замена стандартной линзы o4 Air Unit на широкую от flywoo
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://runtime.video.cloud.yandex.net/player/video/vplvmufnwrppiqla7lhb?autoplay=0&mute=1" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
