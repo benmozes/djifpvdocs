@@ -128,6 +128,10 @@ description: Актуальная прошивка, спеки, совмести
 <figcaption>o4 Pro Air Unit wiring</figcaption>
 </figure>
 
+### cad файлы
+* оригинал на <a href="https://grabcad.com/library/dji-o4-air-unit-pro-1" target="_blank">GrabCAD</a>
+* <a href="https://storage.yandexcloud.net/djifpv.ru/dji-o4-air-unit-pro.zip" target="_blank">зеркало</a>
+
 [^1]: не для всех регионов
 [^2]: EIRP это мощность передатчика за антенной, по методикам определения FCC
 [^3]: При включенной стабилизации RockSteady доступен только нормальный (Standard) угол камеры
