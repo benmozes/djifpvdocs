@@ -17,5 +17,5 @@ glightbox: true
 * <a href="https://storage.yandexcloud.net/djifpv.ru/manuals/DJI_Goggles_3_User_Manual_RU.pdf" target="_blank">DJI Goggles 3 RU</a>  
 * <a href="https://storage.yandexcloud.net/djifpv.ru/manuals/DJI_O4_Air_Unit_Series_User_Manual_v1.0_en.pdf" target="_blank">DJI o4 Air Unit/o4 Air Unit Pro</a>  
 * <a href="https://storage.yandexcloud.net/djifpv.ru/manuals/DJI_Goggles_N3_User_Manual_en.pdf" target="_blank">DJI Goggles N3 EN</a>
-* <a href="https://storage.yandexcloud.net/djifpv.ru/manuals/DJI_Goggles_N3_User_Manual_en.pdf" target="_blank">DJI Goggles N3 RU</a>
+* <a href="https://storage.yandexcloud.net/djifpv.ru/manuals/DJI_Goggles_N3_User_Manual_ru.pdf" target="_blank">DJI Goggles N3 RU</a>
 
